@@ -2,7 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "LICENSE.txt", _site"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "LICENSE.txt", "_site"]
 auto: true
 pygments: true
 
@@ -17,6 +17,7 @@ author :
   github : seanode
   # TODO twitter : username
   # TODO feedburner : feedname
+  meetup : http://www.meetup.com/Seattle-Node-js/
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt

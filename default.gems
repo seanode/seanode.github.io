@@ -1,0 +1,11 @@
+classifier -v1.3.3
+directory_watcher -v1.5.1
+fast-stemmer -v1.0.2
+jekyll -v0.12.1
+kramdown -v0.14.2
+liquid -v2.5.0
+maruku -v0.6.1
+posix-spawn -v0.3.6
+pygments.rb -v0.3.7
+syntax -v1.0.0
+yajl-ruby -v1.1.0

@@ -8,3 +8,10 @@ title: Seattle Node.js
 # TODO
 Actually start writing up content.
 
+Stuff we need to set up (in `_config.yml`):
+
+* email
+* twitter
+* feedburner
+* disqus
+* Google Analytics

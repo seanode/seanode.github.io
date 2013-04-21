@@ -11,12 +11,13 @@ pygments: true
 #
 title : Seattle Node.js
 tagline : Bringing Node.js to Seattle!
-hashtag : seattlenode
 author :
   name : Seattle Node.js
   email : seattlenode@gmail.com
   github : seanode
+  repo : seanode.github.io
   twitter : seattlenode
+  hashtag : seattlenode
   # TODO feedburner : feedname
   meetup : http://www.meetup.com/Seattle-Node-js/
 

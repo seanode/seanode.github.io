@@ -1,0 +1,54 @@
+/******************************************************************************
+ * Longneck Styles
+ *****************************************************************************/
+.popup {
+  display: none;
+  position: absolute;
+  right: 55px;
+  top: -5px;
+  width: 180px;
+  padding: 5px 20px 5px 10px;
+  background: black;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.popup * {
+  color:#fff;
+}
+
+.popup small {
+  display: block;
+  font-size: 12px;
+}
+
+.thumb {
+  display: block;
+  height: 48px;
+  width: 48px;
+  background: white 50% 50% no-repeat;
+  background-size: 48px;
+}
+
+a.github-user,
+a.tweet {
+  display: block;
+  height: 48px;
+  width: 48px;
+  margin: 0px 4px 4px 0px;
+  float: left;
+  position: relative;
+}
+
+.tweet:hover,
+.github-user:hover {
+  z-index:1;
+}
+
+.tweet:hover .caret,
+.tweet:hover .popup,
+.github-user:hover .caret,
+.github-user:hover .popup {
+  display:block;
+}

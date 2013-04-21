@@ -1,38 +1,34 @@
 /**
  * Site
  */
-(function () {
-  var page = {},
-    $tweets = $(".tweets");
+$(function () {
+  var github = {};
 
-  SITE.hashtag = "ryan_roemer";
-  console.log("TODO HERE", SITE.hashtag);
-
-  page.twitter = function () {
+  github.watchers = function ($elem) {
     $.ajax({
-      url: 'http://search.twitter.com/search.json',
-      data: { q: SITE.hashtag, rpp:100 },
+      // TODO: Add pagination for more users.
+      url: 'https://api.github.com/repos/' +
+           SITE.github.user + '/' +
+           SITE.github.repo + '/watchers',
       dataType: 'jsonp',
-      success: function(resp) {
-        if (!resp.results.length) { return };
+      success: function (resp) {
+        if (!resp.data.length) { return; }
 
         var template =
-          "<a target='_blank' href='http://twitter.com/<%=from_user%>/status/<%=id_str%>' class='tweet'>"
-          + "<span class='thumb' style='background-image:url(<%=profile_image_url%>)'></span>"
-          + "<span class='popup'>"
-          + "<span class='title'>@<%=from_user%></span>"
-          + "<small><%=text%></small>"
-          + "</span>"
-          + "</a>";
+          "<a class='github-user' target='_blank' href='http://github.com/<%=login%>'>" +
+            "<span style='background-image:url(<%=avatar_url%>)' class='thumb' /></span>" +
+            "<span class='popup'>" +
+            "<span class='title'><%=login%></span>" +
+            "</span>" +
+          "</a>";
 
-        var t = _(resp.results.slice(0,30))
-          .map(function(i) { return _(template).template(i); })
-          .join('');
-
-        $tweets.append(t).addClass('loaded');
+        _.chain(resp.data)
+          .map(function (d) { return _.template(template, d); })
+          .each(function (e) { $elem.append(e); })
       }
     });
   };
-  $(page.twitter);
 
-})();
+  // Initialize.
+  github.watchers($(".followers .side-content"));
+});

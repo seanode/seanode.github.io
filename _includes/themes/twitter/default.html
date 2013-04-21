@@ -18,6 +18,7 @@
     <link href="{{ ASSET_PATH }}/bootstrap-2.3.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/bootstrap-2.3.1/css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ BASE_PATH }}/assets/css/site.css" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -80,7 +81,11 @@
     <script>
       // Site-wide variables.
       var SITE = {
-        hashtag: "{{site.hashtag}}"
+        hashtag: "{{site.author.hashtag}}",
+        github: {
+          user: "{{site.author.github}}",
+          repo: "{{site.author.repo}}"
+        }
       };
     </script>
     <script src="{{ BASE_PATH }}/assets/js/site.js"></script>

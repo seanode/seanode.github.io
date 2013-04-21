@@ -13,9 +13,9 @@ title : Seattle Node.js
 tagline: Bringing Node.js to Seattle!
 author :
   name : Seattle Node.js
-  # TODO email : blah@email.test
+  email : seattlenode@gmail.com
   github : seanode
-  # TODO twitter : username
+  twitter : seattlenode
   # TODO feedburner : feedname
   meetup : http://www.meetup.com/Seattle-Node-js/
 
@@ -84,7 +84,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : seanode
     # livefyre :
     #   site_id : 123
     # intensedebate :
@@ -102,7 +102,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-40307626-1'
     # getclicky :
     #   site_id :
     # mixpanel :

@@ -5,6 +5,8 @@ title: Seattle Node.js
 ---
 {% include JB/setup %}
 
+# Seattle Node.js
+
 Welcome to Seattle Node.js! We are a group of Node.js enthusiasts and
 technologists interested in event-based programming, highly-concurrent
 applications, and bringing JavaScript to the server-side. We hope that you join
@@ -15,12 +17,10 @@ descriptions and reservations, while this site provides additional event
 resources, slides, and discussions.
 
 # TODO
-Actually start writing up content.
 
-Stuff we need to set up (in `_config.yml`):
-
-* email
-* twitter
-* feedburner
-* disqus
-* Google Analytics
+* Get rid of this section.
+* Links to other Seattle area tech stuff.
+* Prominent link for first event.
+* Change "Archives" to "Posts"
+* Layout: Make aside disappear
+* feedburner: (in `_config.yml`)

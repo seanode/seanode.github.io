@@ -59,10 +59,6 @@
     </div>
 
     <div class="container-fluid">
-      <header class="page-header">
-        <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
-      </header>
-
       <div class="content row-fluid">
         {{ content }}
       </div>
@@ -81,7 +77,9 @@
     <script>
       // Site-wide variables.
       var SITE = {
-        hashtag: "{{site.author.hashtag}}",
+        twitter: {
+          hashtag: "{{site.author.hashtag}}"
+        },
         github: {
           user: "{{site.author.github}}",
           repo: "{{site.author.repo}}"

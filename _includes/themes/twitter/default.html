@@ -64,22 +64,6 @@
 
       <div class="content row-fluid">
         {{ content }}
-
-        <div class="span4">
-          <div class='followers clearfix'>
-            <h2>Seattle Nodesters</h2>
-          </div>
-
-          <div class='follower-project clearfix'>
-            <h2>A random Seattle Node.js member's project</h2>
-          </div>
-
-          <div class='tweets clearfix'>
-            <h2>Tweets that mention
-              <a href="https://twitter.com/search/realtime?q={{site.hashtag}}">#{{site.hashtag}}</a>
-              </h2>
-          </div>
-        </div>
       </div>
 
       <footer class="page-footer">
@@ -92,6 +76,14 @@
     <!-- JavaScript -->
     <script src="{{ ASSET_PATH }}/js/jquery-1.9.1.min.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap-2.3.1/js/bootstrap.min.js"></script>
+    <script src="{{ BASE_PATH }}/assets/js/underscore-1.4.4.min.js"></script>
+    <script>
+      // Site-wide variables.
+      var SITE = {
+        hashtag: "{{site.hashtag}}"
+      };
+    </script>
+    <script src="{{ BASE_PATH }}/assets/js/site.js"></script>
 
     {% include JB/analytics %}
   </body>

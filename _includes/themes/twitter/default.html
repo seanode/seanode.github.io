@@ -57,18 +57,36 @@
       </div>
     </div>
 
-    <div class="container-narrow">
+    <div class="container-fluid">
+      <header class="page-header">
+        <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+      </header>
 
-      <div class="content">
+      <div class="content row-fluid">
         {{ content }}
+
+        <div class="span4">
+          <div class='followers clearfix'>
+            <h2>Seattle Nodesters</h2>
+          </div>
+
+          <div class='follower-project clearfix'>
+            <h2>A random Seattle Node.js member's project</h2>
+          </div>
+
+          <div class='tweets clearfix'>
+            <h2>Tweets that mention
+              <a href="https://twitter.com/search/realtime?q={{site.hashtag}}">#{{site.hashtag}}</a>
+              </h2>
+          </div>
+        </div>
       </div>
-      <hr>
-      <footer>
+
+      <footer class="page-footer">
         <p>
           &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
         </p>
       </footer>
-
     </div>
 
     <!-- JavaScript -->

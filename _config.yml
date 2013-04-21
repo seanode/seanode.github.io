@@ -10,7 +10,8 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Seattle Node.js
-tagline: Bringing Node.js to Seattle!
+tagline : Bringing Node.js to Seattle!
+hashtag : seattlenode
 author :
   name : Seattle Node.js
   email : seattlenode@gmail.com

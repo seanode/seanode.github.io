@@ -13,6 +13,7 @@
     {{ content }}
   </div>
 
+{% comment %}
 {% unless post.categories == empty %}
   <ul class="tag_box inline">
     <li><i class="icon-folder-open"></i></li>
@@ -20,6 +21,7 @@
     {% include JB/categories_list %}
   </ul>
 {% endunless %}
+{% endcomment %}
 
 {% unless post.tags == empty %}
   <ul class="tag_box inline">

@@ -25,11 +25,6 @@ From here, you'll get a raw template to fill in:
     ---
     {% include JB/setup %}
 
-There should be **one** category (it's part of the permalink), and you should
-choose one from the following (or add it to this list):
-
-* `events`
-
 Fill in the description string and and add any number of tags for the event.
 Here's an example of a setup:
 
@@ -37,8 +32,7 @@ Here's an example of a setup:
     layout: post
     title: "Announcing the May Seattle Node.js Meetup"
     description: "Start your event loops and come out to talk some Node.js!"
-    category: events
-    tags: [node.js, javascript, meetup]
+    tags: [events, node.js, javascript, meetup]
     ---
     {% include JB/setup %}
 

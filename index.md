@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Seattle Node.js
+title: Seattle Node.js Meetup
 #tagline: Node.js in the Emerald City
 ---
 {% include JB/setup %}
-
-# Seattle Node.js
 
 Welcome to Seattle Node.js! We are a group of Node.js enthusiasts and
 technologists interested in event-based programming, highly-concurrent
@@ -16,7 +14,7 @@ Our official [Meetup]({{ site.author.meetup }}) page provides event
 descriptions and reservations, while this site provides additional event
 resources, slides, and discussions.
 
-# TODO
+## TODO
 
 * Get rid of this section.
 * Links to other Seattle area tech stuff.

@@ -78,20 +78,3 @@ footer {
   padding-top: 10px;
   border-top: 1px solid #eeeeee;
 }
-
-span8, span4 {
-  border: 1px solid red; /* TODO REMOVE*/
-}
-
-h1.title {
-  text-align: center;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #eeeeee;
-  margin-bottom: 10px;
-}
-
-h1.title a {
-  text-decoration: none;
-  color: #08c;
-}
-

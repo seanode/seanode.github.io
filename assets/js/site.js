@@ -6,6 +6,8 @@ $(function () {
     twitter = {};
 
   github.watchers = function ($elem) {
+    if ($elem.length === 0) { return; }
+
     $.ajax({
       // TODO: Add pagination for more users.
       url: "https://api.github.com/repos/" +
@@ -31,6 +33,8 @@ $(function () {
   };
 
   twitter.mentions = function ($elem) {
+    if ($elem.length === 0) { return; }
+
     $.ajax({
       url: "http://search.twitter.com/search.json",
       data: { q: SITE.twitter.hashtag, rpp: 100 },

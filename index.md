@@ -24,3 +24,4 @@ resources, slides, and discussions.
 * Change "Archives" to "Posts"
 * Layout: Make aside disappear
 * feedburner: (in `_config.yml`)
+* Add posts to this section.

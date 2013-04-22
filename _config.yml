@@ -1,6 +1,6 @@
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "LICENSE.txt", "_site"]
 auto: true
@@ -74,7 +74,6 @@ JB :
   # Some JB helpers refer to these paths; change them here if needed.
   #
   archive_path: /posts.html
-  categories_path : /categories.html
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml

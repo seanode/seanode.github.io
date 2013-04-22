@@ -21,7 +21,6 @@ From here, you'll get a raw template to fill in:
     layout: post
     title: "Announcing the May Seattle Node.js Meetup"
     description: ""
-    category:
     tags: []
     ---
     {% include JB/setup %}

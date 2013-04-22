@@ -25,5 +25,6 @@ resources, slides, and discussions.
 * Layout: Make aside disappear
 * feedburner: (in `_config.yml`)
 * GitHub links
-* Twitter, GH icons.
+* Twitter, GH, RSS icons.
 * Add posts to this section.
+* Get rid of: Categories, Pages

@@ -24,4 +24,6 @@ resources, slides, and discussions.
 * Change "Archives" to "Posts"
 * Layout: Make aside disappear
 * feedburner: (in `_config.yml`)
+* GitHub links
+* Twitter, GH icons.
 * Add posts to this section.

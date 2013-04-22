@@ -11,21 +11,16 @@ h1.page-title {
   margin-bottom: 5px;
 }
 
-h1.page-title a {
-  text-decoration: none;
-  color: #333;
-}
-
 h1.post-title {
-  text-align: center;
   padding-bottom: 10px;
   border-bottom: 1px solid #eeeeee;
   margin-bottom: 10px;
 }
 
+h1.page-title a,
 h1.post-title a {
   text-decoration: none;
-  color: #08c;
+  color: #333;
 }
 
 

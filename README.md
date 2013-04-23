@@ -36,6 +36,13 @@ Here's an example of a setup:
     ---
     {% include JB/setup %}
 
+### Authoring a Post
+
+Some various tips:
+
+* **Headings start with h2**: We use `h1` (or `#` in markdown) for titles,
+  so use  `h2` (or `##` in markdown) or smaller.
+
 
 ## Development
 

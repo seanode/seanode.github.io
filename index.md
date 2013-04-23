@@ -14,12 +14,26 @@ Our official [Meetup]({{ site.author.meetup }}) page provides event
 descriptions and reservations, while this site provides additional event
 resources, slides, and discussions.
 
+## Current Posts
+
+{% for post in site.posts limit:2 %}
+<div class="page-posts inner">
+  <div class="post clearfix">
+    <div class="excerpt">
+      {{ post.content | replace: '--', 'DOUBLE_DASH' | replace: '<!DOUBLE_DASH', '<!--'  | replace: 'DOUBLE_DASH>', '-->' | replace:'DOUBLE_DASH','&endash;&endash;' | replace:'more start -->','' | replace:'<!-- more end','' }}
+    </div>
+    <div class="more pull-right">
+      Read <a href="{{ post.url }}">more</a>...
+    </div>
+  </div>
+</div>
+{% endfor %}
+
 ## TODO
 
 * Get rid of this section.
 * Links to other Seattle area tech stuff.
 * Prominent link for first event.
-* Change "Archives" to "Posts"
 * Layout: Make aside disappear
 * feedburner: (in `_config.yml`)
 * GitHub links

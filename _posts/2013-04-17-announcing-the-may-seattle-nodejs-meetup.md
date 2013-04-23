@@ -2,7 +2,6 @@
 layout: post
 title: "Announcing the May Seattle Node.js Meetup"
 description: "Start your event loops and come out to talk some Node.js!"
-category: events
 tags: [node.js, javascript, meetup]
 ---
 {% include JB/setup %}

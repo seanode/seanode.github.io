@@ -1,0 +1,151 @@
+/******************************************************************************
+ * Site Styles
+ *****************************************************************************/
+.side-title {
+  font-weight: bold;
+}
+
+h1.page-title {
+  padding-bottom: 5px;
+  border-bottom: 1px solid #eeeeee;
+  margin-bottom: 5px;
+}
+
+h1.post-title {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eeeeee;
+  margin-bottom: 10px;
+}
+
+h1.page-title a,
+h1.post-title a {
+  text-decoration: none;
+  color: #333;
+}
+
+
+.followers {
+  margin-bottom: 20px;
+}
+
+/******************************************************************************
+ * Post Snippets
+ *****************************************************************************/
+.page-posts .post {
+  padding: 10px;
+  background: #fcfcfc;
+  border: 1px dotted #ccc;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+.page-posts .date {
+  font-weight: bold;
+}
+.page-posts .more {
+  font-style: italic;
+}
+
+/* Tone down headings in page post. */
+.page-posts h1,
+.page-posts h2,
+.page-posts h3 {
+  line-height: 30px;
+}
+
+.page-posts h1 {
+  font-size: 30px;
+}
+
+.page-posts h2 {
+  font-size: 23px;
+}
+
+.page-posts h3 {
+  font-size: 20px;
+}
+
+.page-posts h4 {
+  font-size: 14px;
+}
+
+.page-posts h5 {
+  font-size: 11px;
+}
+
+.page-posts h6 {
+  font-size: 10px;
+}
+
+.page-posts h1 small {
+  font-size: 19px;
+}
+
+.page-posts h2 small {
+  font-size: 13px;
+}
+
+.page-posts h3 small {
+  font-size: 11px;
+}
+
+.page-posts h4 small {
+  font-size: 11px;
+}
+
+
+/******************************************************************************
+ * Longneck Styles
+ *****************************************************************************/
+.popup {
+  display: none;
+  position: absolute;
+  right: 55px;
+  top: -5px;
+  width: 180px;
+  padding: 5px 20px 5px 10px;
+  background: black;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.popup * {
+  color:#fff;
+}
+
+.popup small {
+  display: block;
+  font-size: 12px;
+}
+
+.thumb {
+  display: block;
+  height: 48px;
+  width: 48px;
+  background: white 50% 50% no-repeat;
+  background-size: 48px;
+}
+
+a.github-user,
+a.tweet {
+  display: block;
+  height: 48px;
+  width: 48px;
+  margin: 0px 4px 4px 0px;
+  float: left;
+  position: relative;
+}
+
+.tweet:hover,
+.github-user:hover {
+  z-index:1;
+}
+
+.tweet:hover .caret,
+.tweet:hover .popup,
+.github-user:hover .caret,
+.github-user:hover .popup {
+  display:block;
+}

@@ -1,6 +1,6 @@
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "LICENSE.txt", "_site"]
 auto: true
@@ -10,12 +10,14 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Seattle Node.js
-tagline: Bringing Node.js to Seattle!
+tagline : Bringing Node.js to Seattle!
 author :
   name : Seattle Node.js
-  # TODO email : blah@email.test
+  email : seattlenode@gmail.com
   github : seanode
-  # TODO twitter : username
+  repo : seanode.github.io
+  twitter : seattlenode
+  hashtag : seattlenode
   # TODO feedburner : feedname
   meetup : http://www.meetup.com/Seattle-Node-js/
 
@@ -71,8 +73,7 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: /archive.html
-  categories_path : /categories.html
+  archive_path: /posts.html
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
@@ -84,7 +85,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : seanode
     # livefyre :
     #   site_id : 123
     # intensedebate :
@@ -102,7 +103,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-40307626-1'
     # getclicky :
     #   site_id :
     # mixpanel :

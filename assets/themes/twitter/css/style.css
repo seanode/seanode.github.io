@@ -1,3 +1,6 @@
+/******************************************************************************
+ * JB Styles
+ *****************************************************************************/
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
@@ -5,13 +8,6 @@
 
 .container-narrow > hr {
   margin: 30px 0; }
-
-
-@media (min-width: 768px) {
-  .navbar .nav {
-    float: right;
-  }
-}
 
 /* posts index */
 .post > h3.title {
@@ -67,3 +63,18 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+/******************************************************************************
+ * Custom Styles
+ *****************************************************************************/
+@media (min-width: 768px) {
+  .navbar .nav {
+    float: right;
+  }
+}
+
+footer {
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid #eeeeee;
+}

@@ -1,9 +1,29 @@
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+<div class="span8">
+  <h1 class="page-title">
+    <a href="{{ page.url }}">{{ page.title }}</a>
+    {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}
+  </h1>
+
+  {{ content }}
 </div>
 
-<div class="row-fluid">
-  <div class="span12">
-    {{ content }}
+<div class="span4 hidden-phone">
+  <div class="followers clearfix">
+    <div class="side-title">Seattle Node Followers</div>
+    <div class="side-explain">
+      Follow and watch our
+      <a class="watch" href="http://github.com/{{site.author.github}}/{{site.author.repo}}">GitHub repository</a>
+      for the latest updates!
+    </div>
+    <div class="side-content"></div>
+  </div>
+
+  <div class="tweets clearfix">
+    <div class="side-title">
+      Seattle Node on Twitter (<a
+        href="https://twitter.com/search/realtime?q={{site.author.hashtag}}"
+        >#{{site.author.hashtag}}</a>)
+    </div>
+     <div class="side-content"></div>
   </div>
 </div>

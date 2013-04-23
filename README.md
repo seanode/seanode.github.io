@@ -87,9 +87,14 @@ Released under the [MIT](./LICENSE.txt) License.
   the [Apache v2.0](https://github.com/twitter/bootstrap/blob/master/LICENSE)
   license.
 
+* [Font Awesome][font_awesome] is Copyright Dave Gandy and licensed under
+  the [MIT](http://fortawesome.github.io/Font-Awesome/#license)
+  license.
+
 * Some JavaScript from [longneck][longneck].
 
 [j_bootstrap]: http://jekyllbootstrap.com
 [bootstrap]: https://github.com/twitter/bootstrap
 [jquery]: https://github.com/jquery/jquery
 [longneck]: https://github.com/willwhite/longneck
+[font_awesome]: http://fortawesome.github.io/Font-Awesome/

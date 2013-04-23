@@ -53,13 +53,17 @@
               {% assign group = 'navigation' %}
               {% include JB/pages_list %}
               <li><a href="{{ site.author.meetup }}">Meetup</a></li>
-              <li><a href="https://twitter.com/{{ site.author.twitter }}" alt="Twitter">
+              <li><a href="https://twitter.com/{{ site.author.twitter }}" alt="Twitter" class="nav-icon">
                   <i class="icon-twitter icon-large icon-white hidden-phone"></i>
                   <span class="visible-phone">Twitter</span>
                   </a></li>
-              <li><a href="https://github.com/{{ site.author.github }}/{{ site.author.repo }}" alt="GitHub">
+              <li><a href="https://github.com/{{ site.author.github }}/{{ site.author.repo }}" alt="GitHub" class="nav-icon">
                   <i class="icon-github icon-white icon-large hidden-phone"></i>
                   <span class="visible-phone">GitHub</span>
+                  </a></li>
+              <li><a href="mailto:{{ site.author.email }}" alt="Contact Us" class="nav-icon">
+                  <i class="icon-envelope-alt icon-white icon-large hidden-phone"></i>
+                  <span class="visible-phone">Contact Us</span>
                   </a></li>
             </ul>
           </div>

@@ -39,6 +39,9 @@ h1.post-title a {
   -webkit-border-radius: 10px;
 }
 
+.page-posts .date {
+  font-weight: bold;
+}
 .page-posts .more {
   font-style: italic;
 }

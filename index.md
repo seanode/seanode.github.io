@@ -18,12 +18,20 @@ resources, slides, and discussions.
 
 {% for post in site.posts limit:2 %}
 <div class="page-posts inner">
-  <div class="post clearfix">
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h1>
     <div class="excerpt">
       {{ post.content | replace: '--', 'DOUBLE_DASH' | replace: '<!DOUBLE_DASH', '<!--'  | replace: 'DOUBLE_DASH>', '-->' | replace:'DOUBLE_DASH','&endash;&endash;' | replace:'more start -->','' | replace:'<!-- more end','' }}
     </div>
-    <div class="more pull-right">
-      Read <a href="{{ post.url }}">more</a>...
+    <div class="clearfix">
+      <div class="date pull-left">
+        {{ post.date | date_to_long_string }}
+      </div>
+      <div class="more pull-right">
+        Read <a href="{{ post.url }}">more</a>...
+      </div>
     </div>
   </div>
 </div>

@@ -17,7 +17,9 @@
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap-2.3.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/bootstrap-2.3.1/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/font-awesome-3.0.2/css/font-awesome.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ BASE_PATH }}/assets/css/site.css" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -36,7 +38,7 @@
   <body>
     <div class="navbar">
       <div class="navbar-inner">
-        <div class="container-narrow">
+        <div class="container-fluid">
           <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -47,35 +49,53 @@
 
           <div class="nav-collapse">
             <ul class="nav">
-              {% comment %}
               {% assign pages_list = site.pages %}
               {% assign group = 'navigation' %}
               {% include JB/pages_list %}
-              {% endcomment %}
               <li><a href="{{ site.author.meetup }}">Meetup</a></li>
+              <li><a href="https://twitter.com/{{ site.author.twitter }}" alt="Twitter">
+                  <i class="icon-twitter icon-large icon-white hidden-phone"></i>
+                  <span class="visible-phone">Twitter</span>
+                  </a></li>
+              <li><a href="https://github.com/{{ site.author.github }}/{{ site.author.repo }}" alt="GitHub">
+                  <i class="icon-github icon-white icon-large hidden-phone"></i>
+                  <span class="visible-phone">GitHub</span>
+                  </a></li>
             </ul>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="container-narrow">
-
-      <div class="content">
+    <div class="container-fluid">
+      <div class="content row-fluid">
         {{ content }}
       </div>
-      <hr>
-      <footer>
+
+      <!-- <footer class="page-footer">
         <p>
           &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
         </p>
-      </footer>
-
+      </footer> -->
     </div>
 
     <!-- JavaScript -->
     <script src="{{ ASSET_PATH }}/js/jquery-1.9.1.min.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap-2.3.1/js/bootstrap.min.js"></script>
+    <script src="{{ BASE_PATH }}/assets/js/underscore-1.4.4.min.js"></script>
+    <script>
+      // Site-wide variables.
+      var SITE = {
+        twitter: {
+          hashtag: "{{site.author.hashtag}}"
+        },
+        github: {
+          user: "{{site.author.github}}",
+          repo: "{{site.author.repo}}"
+        }
+      };
+    </script>
+    <script src="{{ BASE_PATH }}/assets/js/site.js"></script>
 
     {% include JB/analytics %}
   </body>

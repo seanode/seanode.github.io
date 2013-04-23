@@ -12,8 +12,8 @@ Wednesday, May 8. The event is hosted downtown by the fine folks at the
 
 {% comment %}
 
+* Add in link and some descriptions of the new website / social media, etc.
 * Link to meetup page.
-* Update description with actual topics.
 * Embed a Google Map for venue.
 
 {% endcomment %}
@@ -24,7 +24,9 @@ Wednesday, May 8. The event is hosted downtown by the fine folks at the
 [MovingWorlds][mw].
 
 **7:00pm - 7:30pm**: [Ryan Roemer](http://loose-bits.com) will present a
-talk on "**Node.js in Production**".
+talk on "**Node.js in Production**". Ryan will discuss the good, the bad, and
+the ugly details of running Node.js services for the world's largest Spanish
+learning website, [SpanishDict.com](http://spanishdict.com).
 
 **7:30pm - on**: We will turn the rest of our time over to the group for a
 series of **lightning talks**. Please bring your ideas and projects to share

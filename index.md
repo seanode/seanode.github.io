@@ -52,11 +52,17 @@ resources, slides, and discussions.
 {% comment %}
 # TODO
 
+* POST: New site and everything to do with it.
+* Design: Redesign site styles and look/feel.
 * Side Bar: Links to other Seattle area tech stuff.
 * Side Bar: Links for events.
+* Page: Node.js jobs (?)
+
 * feedburner: (in `_config.yml`)
 * GitHub banner
 * RSS icon in navbar (with Feedburner).
+* Sponsors Block.
+* Email contact on the site.
 
 {% endcomment %}
 

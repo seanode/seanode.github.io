@@ -33,7 +33,8 @@ h1.post-title a {
  *****************************************************************************/
 .page-posts .post {
   padding: 10px;
-  background: #cfcfcf;
+  background: #fcfcfc;
+  border: 1px dotted #ccc;
   border-radius: 10px;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;

@@ -14,9 +14,10 @@ Our official [Meetup]({{ site.author.meetup }}) page provides event
 descriptions and reservations, while this site provides additional event
 resources, slides, and discussions.
 
-## Current Posts
+{% if site.posts.size > 0 %}
+## Latest Happenings
 
-{% for post in site.posts limit:2 %}
+{% assign post = site.posts.first %}
 <div class="page-posts inner">
   <div class="post">
     <h1 class="post-title">
@@ -24,6 +25,7 @@ resources, slides, and discussions.
     </h1>
     <div class="excerpt">
       {{ post.content | replace: '--', 'DOUBLE_DASH' | replace: '<!DOUBLE_DASH', '<!--'  | replace: 'DOUBLE_DASH>', '-->' | replace:'DOUBLE_DASH','&endash;&endash;' | replace:'more start -->','' | replace:'<!-- more end','' }}
+      <!-- -->
     </div>
     <div class="clearfix">
       <div class="date pull-left">
@@ -35,16 +37,26 @@ resources, slides, and discussions.
     </div>
   </div>
 </div>
+{% endif %}
+
+{% if site.posts.size > 0 %}
+## Recent News and Posts
+
+<ul>
+{% for post in site.posts limit:10 offset:0 %}
+  <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>
+{% endif %}
 
-## TODO
+{% comment %}
+# TODO
 
-* Get rid of this section.
-* Links to other Seattle area tech stuff.
-* Prominent link for first event.
-* Layout: Make aside disappear
+* Side Bar: Links to other Seattle area tech stuff.
+* Side Bar: Links for events.
 * feedburner: (in `_config.yml`)
-* GitHub links
-* Twitter, GH, RSS icons.
-* Add posts to this section.
-* Get rid of: Categories, Pages
+* GitHub banner
+* RSS icon in navbar (with Feedburner).
+
+{% endcomment %}
+

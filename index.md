@@ -43,30 +43,32 @@ GitHub ([@{{site.author.github}}](https://github.com/{{ site.author.github }})).
 </div>
 {% endif %}
 
-{% if site.posts.size > 0 %}
+{% if site.posts.size > 1 %}
 ## Recent News and Posts
 
 <ul>
-{% for post in site.posts limit:10 offset:0 %}
+{% for post in site.posts limit:10 offset:1 %}
   <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 {% endif %}
 
 {% comment %}
-# TODO
+# Current Tasks
+
+* GitHub banner
+* Sponsors Block.
 
 * POST: New site and everything to do with it.
-* Design: Redesign site styles and look/feel.
 * Side Bar: Links to other Seattle area tech stuff.
 * Side Bar: Links for events.
-* Page: Node.js jobs (?)
 * Posts: Add post.author, post.email, post.twitter, etc. meta.
+  * Also hook in to rss.xml, atom.xml
+* Jekyll: Invite community to submit PRs, etc.
 
-* feedburner: (in `_config.yml`)
-* GitHub banner
-* RSS icon in navbar (with Feedburner).
-* Sponsors Block.
+# Future Tasks
+* Page: Node.js jobs (?)
+* Design: Redesign site styles and look/feel.
 
 {% endcomment %}
 

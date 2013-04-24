@@ -6,18 +6,23 @@ tags: [node.js, javascript, meetup]
 ---
 {% include JB/setup %}
 
-We're very pleased to announce the next Seattle Node.js meetup for
-Wednesday, May 8, hosted downtown at the
-[SURF Incubator][surf_loc].
+The Seattle Node.js Meetup group is kicking things into gear with our next
+event Wednesday, May 8, hosted downtown at the
+[SURF Incubator][surf_loc]. We'll have pizza, beers, talks, and lightning
+talks to get you socializing, listening, and talking about all things
+Node.js.
 
-We're also launching a new group website at:
+We're also launching a new group website at
 [http://seanode.github.io/](http://seanode.github.io/), hosted at our
-GitHub repo
+GitHub [repository](https://github.com/seanode/seanode.github.io), for
+additional articles, posts, and information from the local Node.js community.
+And, we've started a new Twitter account,
+[@{{site.author.twitter}}](https://twitter.com/{{ site.author.twitter }}),
+which we hope you'll follow.
 
 {% comment %}
 
-* Add in link and some descriptions of the new website / social media, etc.
-* Link to meetup page.
+* Add link to meetup page.
 * Embed a Google Map for venue.
 
 {% endcomment %}

@@ -10,7 +10,7 @@ The Seattle Node.js Meetup group is kicking things into gear with our next
 event, scheduled for **Wednesday, May 8** and hosted downtown at the
 [SURF Incubator][surf_loc]. We'll have pizza, beers, talks, and lightning
 talks to get you socializing, listening, and talking about all things
-Node.js.
+Node.js. Please **RSVP** at the [Meetup event page](http://www.meetup.com/Seattle-Node-js/events/115959992/).
 
 We're also launching a new group website at
 [http://seanode.github.io/](http://seanode.github.io/), hosted at our
@@ -19,13 +19,6 @@ additional articles, posts, and information from the local Node.js community.
 And, we've started a new Twitter account,
 [@{{site.author.twitter}}](https://twitter.com/{{ site.author.twitter }}),
 which we hope you'll follow.
-
-{% comment %}
-
-* Add link to meetup page.
-* Embed a Google Map for venue.
-
-{% endcomment %}
 
 ## Agenda
 

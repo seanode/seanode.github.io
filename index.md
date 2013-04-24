@@ -12,7 +12,11 @@ us and help the Node.js community continue to grow in Seattle.
 
 Our official [Meetup]({{ site.author.meetup }}) page provides event
 descriptions and reservations, while this site provides additional event
-resources, slides, and discussions.
+resources, slides, and discussions. You can also find us via
+email ([{{site.author.email}}](mailto:{{site.author.email}})),
+Twitter ([@{{site.author.twitter}}](https://twitter.com/{{ site.author.twitter }})),
+and on
+GitHub ([@{{site.author.github}}](https://github.com/{{ site.author.github }})).
 
 {% if site.posts.size > 0 %}
 ## Latest Happenings
@@ -23,14 +27,16 @@ resources, slides, and discussions.
     <h1 class="post-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
     </h1>
+    <div class="clearfix">
+      <div class="date badge">
+        {{ post.date | date_to_long_string }}
+      </div>
+    </div>
     <div class="excerpt">
       {{ post.content | replace: '--', 'DOUBLE_DASH' | replace: '<!DOUBLE_DASH', '<!--'  | replace: 'DOUBLE_DASH>', '-->' | replace:'DOUBLE_DASH','&endash;&endash;' | replace:'more start -->','' | replace:'<!-- more end','' }}
       <!-- -->
     </div>
     <div class="clearfix">
-      <div class="date pull-left">
-        {{ post.date | date_to_long_string }}
-      </div>
       <div class="more pull-right">
         Read <a href="{{ post.url }}">more</a>...
       </div>
@@ -39,24 +45,32 @@ resources, slides, and discussions.
 </div>
 {% endif %}
 
-{% if site.posts.size > 0 %}
+{% if site.posts.size > 1 %}
 ## Recent News and Posts
 
 <ul>
-{% for post in site.posts limit:10 offset:0 %}
+{% for post in site.posts limit:10 offset:1 %}
   <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 {% endif %}
 
 {% comment %}
-# TODO
+# Current Tasks
 
+* GitHub banner
+* Sponsors Block.
+
+* POST: New site and everything to do with it.
 * Side Bar: Links to other Seattle area tech stuff.
 * Side Bar: Links for events.
-* feedburner: (in `_config.yml`)
-* GitHub banner
-* RSS icon in navbar (with Feedburner).
+* Posts: Add post.author, post.email, post.twitter, etc. meta.
+  * Also hook in to rss.xml, atom.xml
+* Jekyll: Invite community to submit PRs, etc.
+
+# Future Tasks
+* Page: Node.js jobs (?)
+* Design: Redesign site styles and look/feel.
 
 {% endcomment %}
 

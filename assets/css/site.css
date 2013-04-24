@@ -1,6 +1,10 @@
 /******************************************************************************
  * Site Styles
  *****************************************************************************/
+#main {
+  padding-bottom: 20px;
+}
+
 .side-title {
   font-weight: bold;
 }
@@ -28,6 +32,13 @@ h1.post-title a {
   margin-bottom: 20px;
 }
 
+@media (min-width: 768px) {
+  .nav > li> a.nav-icon {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
 /******************************************************************************
  * Post Snippets
  *****************************************************************************/
@@ -42,6 +53,8 @@ h1.post-title a {
 
 .page-posts .date {
   font-weight: bold;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
 }
 .page-posts .more {
   font-style: italic;

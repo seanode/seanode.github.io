@@ -27,14 +27,16 @@ GitHub ([@{{site.author.github}}](https://github.com/{{ site.author.github }})).
     <h1 class="post-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
     </h1>
+    <div class="clearfix">
+      <div class="date badge">
+        {{ post.date | date_to_long_string }}
+      </div>
+    </div>
     <div class="excerpt">
       {{ post.content | replace: '--', 'DOUBLE_DASH' | replace: '<!DOUBLE_DASH', '<!--'  | replace: 'DOUBLE_DASH>', '-->' | replace:'DOUBLE_DASH','&endash;&endash;' | replace:'more start -->','' | replace:'<!-- more end','' }}
       <!-- -->
     </div>
     <div class="clearfix">
-      <div class="date pull-left">
-        {{ post.date | date_to_long_string }}
-      </div>
       <div class="more pull-right">
         Read <a href="{{ post.url }}">more</a>...
       </div>

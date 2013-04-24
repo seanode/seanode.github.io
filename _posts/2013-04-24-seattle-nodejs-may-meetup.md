@@ -7,7 +7,7 @@ tags: [node.js, javascript, meetup]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup group is kicking things into gear with our next
-event Wednesday, May 8, hosted downtown at the
+event, scheduled for **Wednesday, May 8** and hosted downtown at the
 [SURF Incubator][surf_loc]. We'll have pizza, beers, talks, and lightning
 talks to get you socializing, listening, and talking about all things
 Node.js.
@@ -34,8 +34,8 @@ which we hope you'll follow.
 
 **7:00pm - 7:30pm**: [Ryan Roemer](http://loose-bits.com) will present a
 talk on "**Node.js in Production**". Ryan will discuss the good, the bad, and
-the ugly details of running Node.js services for the world's largest Spanish
-learning website, [SpanishDict.com](http://spanishdict.com).
+the ugly technical details of running Node.js services for the world's largest
+Spanish learning website, [SpanishDict.com](http://spanishdict.com).
 
 **7:30pm - on**: We will turn the rest of our time over to the group for a
 series of **lightning talks**. Please bring your ideas and projects to share
@@ -68,5 +68,3 @@ committed, and is looking for a
 [mw]: http://www.movingworlds.org
 
 <!-- more end -->
-
-

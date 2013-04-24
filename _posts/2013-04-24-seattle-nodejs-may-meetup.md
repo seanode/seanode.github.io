@@ -34,6 +34,8 @@ Spanish learning website, [SpanishDict.com](http://spanishdict.com).
 series of **lightning talks**. Please bring your ideas and projects to share
 with the group!
 
+<!-- more start -->
+
 ## Venue
 
 The [SURF Incubator][surf] is located in the Exchange building at:
@@ -42,8 +44,6 @@ page for additional details. The Exchange building closes at 6:00pm, so we will
 have meetup members helping out to get you inside and up to the 8th floor for
 the presentations. Please message the meetup page if you are having any
 difficulties getting in.
-
-<!-- more start -->
 
 ## Sponsors
 

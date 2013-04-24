@@ -12,7 +12,11 @@ us and help the Node.js community continue to grow in Seattle.
 
 Our official [Meetup]({{ site.author.meetup }}) page provides event
 descriptions and reservations, while this site provides additional event
-resources, slides, and discussions.
+resources, slides, and discussions. You can also find us via
+email ([{{site.author.email}}](mailto:{{site.author.email}})),
+Twitter ([@{{site.author.twitter}}](https://twitter.com/{{ site.author.twitter }})),
+and on
+GitHub ([@{{site.author.github}}](https://github.com/{{ site.author.github }})).
 
 {% if site.posts.size > 0 %}
 ## Latest Happenings
@@ -62,7 +66,6 @@ resources, slides, and discussions.
 * GitHub banner
 * RSS icon in navbar (with Feedburner).
 * Sponsors Block.
-* Email contact on the site.
 
 {% endcomment %}
 

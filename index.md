@@ -61,6 +61,7 @@ GitHub ([@{{site.author.github}}](https://github.com/{{ site.author.github }})).
 * Side Bar: Links to other Seattle area tech stuff.
 * Side Bar: Links for events.
 * Page: Node.js jobs (?)
+* Posts: Add post.author, post.email, post.twitter, etc. meta.
 
 * feedburner: (in `_config.yml`)
 * GitHub banner

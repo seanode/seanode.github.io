@@ -53,6 +53,7 @@
               {% assign group = 'navigation' %}
               {% include JB/pages_list %}
               <li><a href="{{ site.author.meetup }}">Meetup</a></li>
+              <li class="divider-vertical"></li>
               <li><a href="https://twitter.com/{{ site.author.twitter }}" alt="Twitter" class="nav-icon">
                   <i class="icon-twitter icon-large icon-white hidden-phone"></i>
                   <span class="visible-phone">Twitter</span>
@@ -61,9 +62,13 @@
                   <i class="icon-github icon-white icon-large hidden-phone"></i>
                   <span class="visible-phone">GitHub</span>
                   </a></li>
-              <li><a href="mailto:{{ site.author.email }}" alt="Contact Us" class="nav-icon">
+              <li><a href="mailto:{{ site.author.email }}" alt="Contact" class="nav-icon">
                   <i class="icon-envelope-alt icon-white icon-large hidden-phone"></i>
-                  <span class="visible-phone">Contact Us</span>
+                  <span class="visible-phone">Contact</span>
+                  </a></li>
+              <li><a href="{{ site.feedburner }}" alt="Contact Us" class="nav-icon">
+                  <i class="icon-rss icon-white icon-large hidden-phone"></i>
+                  <span class="visible-phone">Subscribe</span>
                   </a></li>
             </ul>
           </div>

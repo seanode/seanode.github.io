@@ -6,6 +6,11 @@ tags: [node.js, javascript, meetup]
 ---
 {% include JB/setup %}
 
+**5/7/13 Update**: We will be meeting in the 4th floor conference room past
+the lobby doors and to the right (from the Marion and 2nd ave entrance).
+
+***
+
 The Seattle Node.js Meetup group is kicking things into gear with our next
 event, scheduled for **Wednesday, May 8** and hosted downtown at the
 [SURF Incubator][surf_loc]. We'll have pizza, beers, talks, and lightning
@@ -39,11 +44,14 @@ with the group!
 ## Venue
 
 The [SURF Incubator][surf] is located in the Exchange building at:
-821 Second Ave., Suite 800, Seattle, WA 98104. See their [location][surf_loc]
+821 Second Ave., Seattle, WA 98104. See their [location][surf_loc]
 page for additional details. The Exchange building closes at 6:00pm, so we will
-have meetup members helping out to get you inside and up to the 8th floor for
+have meetup members helping out to get you inside on the 4th floor for
 the presentations. Please message the meetup page if you are having any
 difficulties getting in.
+
+**Update**: We will be meeting on the **4th** floor conference room, which is
+at the street level from the entrance at Marion St. and 2nd Ave.
 
 ## Sponsors
 

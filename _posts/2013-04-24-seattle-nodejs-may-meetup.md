@@ -6,8 +6,9 @@ tags: [node.js, javascript, meetup]
 ---
 {% include JB/setup %}
 
-**5/7/13 Update**: We will be meeting in the 4th floor conference room past
-the lobby doors and to the right (from the Marion and 2nd ave entrance).
+**5/8/13 Update**: We will be meeting on the **8th** floor of SURF. On the
+8th floor, go in through the front doors, and turn left to find the open
+meetup space.
 
 ***
 
@@ -46,12 +47,13 @@ with the group!
 The [SURF Incubator][surf] is located in the Exchange building at:
 821 Second Ave., Seattle, WA 98104. See their [location][surf_loc]
 page for additional details. The Exchange building closes at 6:00pm, so we will
-have meetup members helping out to get you inside on the 4th floor for
+have meetup members helping out to get you inside and up to the 8th floor for
 the presentations. Please message the meetup page if you are having any
 difficulties getting in.
 
-**Update**: We will be meeting on the **4th** floor conference room, which is
-at the street level from the entrance at Marion St. and 2nd Ave.
+**Update**: We will be meeting on the **8th** floor. Please come to the
+entrance at Marion St. and 2nd Ave, where our volunteers will let you in and
+help you up the elevator to SURF's offices.
 
 ## Sponsors
 

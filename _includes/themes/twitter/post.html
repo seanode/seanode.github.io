@@ -5,7 +5,7 @@
     <a href="{{ post.url }}">{{ post.title }}</a>
     {% if post.tagline %} <small>{{ post.tagline }}</small>{% endif %}
   </h1>
-  <div class="date">
+  <div class="date badge">
     {{ post.date | date_to_long_string }}
   </div>
   <div class="content">

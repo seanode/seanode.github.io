@@ -7,16 +7,16 @@ tags: [node.js, javascript, meetup]
 ---
 {% include JB/setup %}
 
-The Seattle Node.js Meetup's May 8th event had a great turnout and audience,
+The Seattle Node.js Meetup's May 8th event had a great turnout,
 with over 90 folks finding their way to the [SURF Incubator][surf] to meet,
-eat, and listen to talks. We want to again pass along a huge thanks to
+eat, and listen to talks. We want to pass along a huge thanks to
 [SURF][surf] for providing the venue and [MovingWorlds][mw] for bringing
 the pizza and beverages.
 
 ## Node.js in Production
 
-[Ryan Roemer](http://loose-bits.com) discussed some details and learning
-experiences of running Node.js at Curiosity Media in his talk on
+[Ryan Roemer](http://loose-bits.com) discussed some of the pains and useful
+tips from Curiosity Media's experiences in his talk on
 "**Node.js in Production**".
 
 The slides are now available via:
@@ -30,15 +30,16 @@ The slides are now available via:
 And here's the embedded view:
 
 <div class="embed">
-  <iframe src="http://www.slideshare.net/slideshow/embed_code/20880870" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen">&nbsp;</iframe>
+  <iframe src="http://www.slideshare.net/slideshow/embed_code/20880870" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen">&nbsp;</iframe>
 </div>
 
 <!-- more start -->
 
 ## See you next time!
 
-We are extremely excited with the group turnout for the May 8th event, and
-looking for sponsors and speakers for our future events. Please contact us
+The group's turnout for the May 8th event was fantastic - let's keep things
+going! We are looking for **speakers** and additional **sponsors** for future
+events. Please contact us
 via email [{{site.author.email}}](mailto:{{site.author.email}}) or send
 a tweet our way at
 [@{{site.author.twitter}}](https://twitter.com/{{ site.author.twitter }}).

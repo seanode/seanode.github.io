@@ -39,6 +39,19 @@ h1.post-title a {
   }
 }
 
+.embed {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+.embed iframe {
+  border: 2px solid #ccc;
+  margin-bottom: 15px;
+  -webkit-box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.45);
+     -moz-box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.45);
+          box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.45);
+}
+
 /******************************************************************************
  * Post Snippets
  *****************************************************************************/

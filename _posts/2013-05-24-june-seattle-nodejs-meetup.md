@@ -42,11 +42,7 @@ ideas, discoveries, and projects to share with the group.
 
 ## Main Talk
 
-Eugenio Pace is the cofounder of Auth0, an identity management service built
-with Node.js. Before Auth0, he worked for Microsoft in various teams, and for
-the last 5 years has worked mostly in cloud computing and identity engineering.
-
-*Abstract*
+Eugenio Pace will present "**Building a Server Appliance with Node.js**":
 
 > [Auth0](http://auth0.com/) is a server/service to drastically simplify
 > authentication, identity federation and SSO scenarios. It's our first big
@@ -55,6 +51,10 @@ the last 5 years has worked mostly in cloud computing and identity engineering.
 > cloud, as a virtual appliance on private cloud, or as an appliance on-premises.
 > In this session we'll show how we built it, what worked well, what didn't, and
 > the tools that we used.
+
+Eugenio is the cofounder of Auth0, an identity management service built
+with Node.js. Before Auth0, he worked for Microsoft in various teams, and for
+the last 5 years has worked mostly in cloud computing and identity engineering.
 
 ## Venue / Sponsors
 

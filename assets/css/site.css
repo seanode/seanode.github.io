@@ -9,6 +9,10 @@
   font-weight: bold;
 }
 
+blockquote p {
+  font-size: 1.1em;
+}
+
 h1.page-title {
   padding-bottom: 5px;
   border-bottom: 1px solid #eeeeee;

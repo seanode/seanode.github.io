@@ -6,7 +6,7 @@ tags: [node.js, javascript, meetup, streams, radio]
 ---
 {% include JB/setup %}
 The Seattle Node.js Meetup group's
-[August 13th event](TODO_URL)
+[August 13th event](http://www.meetup.com/Seattle-Node-js/events/131179222/)
 will have two great talks, leading us through the new world of
 [Streams2](http://blog.nodejs.org/2012/12/20/streams2/) in Node.js v0.10 and
 bring Node.js to digital radios. We are pleased to have Mixpo host the meetup

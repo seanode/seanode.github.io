@@ -35,9 +35,12 @@ down.
 
 ## Panelists
 
-### Kyle McFarland - Piper
+### Kyle McFarland - Piper - Security, Enterprise, and the Cloud
 
-TODO_ABSTRACT
+The world of enterprise software is riddled with many hurdles. Unlike the fast paced consumer internet, engineers in the enterprise space are faced with many risks to mitigate and requirements to comply with. In this slower moving space how does innovative technology like Node.js take a stand. Is Node.js ready to meet the likes of PCI or HIPPA regulations. The team at Piper believes it is. Piper is preparing by buttoning up security through Passport.js, Oauth2orize, Helmet, and Lusca modules and hammering down on the data model using the latest from the json schema specification.
+
+Kyle is the technical co-founded at Piper, a company whose mission statement is "All receipts, everywhere, for everyone". His team is building an intelligent solution for receipts. The system allows consumers to connect and store digital receipt data in the cloud through any credit or debit card after every transaction. They have nicknamed their technology "cloud receipts". Kyle is designing solutions to integrate with Point of Sale software and is building a scalable Node.js receipt cloud. He loves the simplicity of Node.js and is determined to see it gain more traction in enterprise software systems.
+
 
 ### Ken Perkins - Rackspace
 

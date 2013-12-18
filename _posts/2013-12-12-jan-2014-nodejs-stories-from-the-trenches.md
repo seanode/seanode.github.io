@@ -53,7 +53,10 @@ TODO_ABSTRACT
 ## Venue / Sponsor
 
 [Mixpo](http://mixpo.com/) has graciously agreed to host the event and
-provide food and tasty beverages. Mixpo's offices are located at: 2505 2nd Ave, 3rd Floor, Seattle, WA
+provide food and tasty beverages. Mixpo's offices are located at: 520 Pike St, Suite 1600, Seattle, WA 98101
+
+
+
 
 
 

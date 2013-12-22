@@ -35,18 +35,27 @@ down.
 
 ## Panelists
 
-### Kyle McFarland - Piper - Security, Enterprise, and the Cloud
+### Security, Enterprise, and the Cloud
+
+**Kyle McFarland - Piper**
 
 The world of enterprise software is riddled with many hurdles. Unlike the fast paced consumer internet, engineers in the enterprise space are faced with many risks to mitigate and requirements to comply with. In this slower moving space how does innovative technology like Node.js take a stand. Is Node.js ready to meet the likes of PCI or HIPPA regulations. The team at Piper believes it is. Piper is preparing by buttoning up security through Passport.js, Oauth2orize, Helmet, and Lusca modules and hammering down on the data model using the latest from the json schema specification.
 
 Kyle is the technical co-founded at Piper, a company whose mission statement is "All receipts, everywhere, for everyone". His team is building an intelligent solution for receipts. The system allows consumers to connect and store digital receipt data in the cloud through any credit or debit card after every transaction. They have nicknamed their technology "cloud receipts". Kyle is designing solutions to integrate with Point of Sale software and is building a scalable Node.js receipt cloud. He loves the simplicity of Node.js and is determined to see it gain more traction in enterprise software systems.
 
 
-### Ken Perkins - Rackspace
+### Preparing and Running Node in Production
 
-TODO_ABSTRACT
+**Ken Perkins - Rackspace**
 
-### TODO_NAME - Nordstrom Data Labs
+Lets dive into what it takes to run your Node.js apps in production. The most important part of running Node.js is actually not related to Node.js at all; We'll talk about provisioning assets in the cloud with pkgcloud, configuring those instances with Puppet, and keeping it running and monitored. We'll also look at setting up across multiple environments, logging, performance and diagnosis of what happens when things go wrong.
+
+Ken is a Developer Advocate for Rackspace (focused on Node.js), building the Rackspace & Openstack SDKs as part of pkgcloud, where he is a core committer. Prior to joining Rackspace, Ken was a full stack developer at Clipboard (since acquired by SalesForce) where he built and managed the entire application architecture and infrastructure from dev to production.
+
+
+### Nordstrom Data Labs
+
+**TODO_NAME**
 
 TODO_ABSTRACT
 

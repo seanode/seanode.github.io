@@ -55,9 +55,11 @@ Ken is a Developer Advocate for Rackspace (focused on Node.js), building the Rac
 
 ### Nordstrom Data Labs
 
-**TODO_NAME**
+**Jason Wilson, David Von Lehman - Nordstrom**
 
-TODO_ABSTRACT
+The Nordstrom Data Lab is building out the next generation recommendations API for Nordstrom.com and beyond. Recommendo, our flagship product, was built from the ground up using Node.js and AWS in a little over three months. Since launch in November we’ve served up over a billion recommendations and survived Black Friday and Cyber Monday without breaking a sweat. We'll be sharing some of the tips and tricks we encountered along the way concentrating on performance testing, cloud deployment and hosting with Elastic Beanstalk, and hooking Node up to DynamoDB.
+
+Jason and David are developers in the Nordstrom Data Lab focusing on infrastructure development for Nordstrom’s next generation personalization platform. Before joining Nordstrom Jason held various engineering roles in military/defense and gaming. David was previously a member of the Nordstrom Innovation Lab and prior to that spent several years as an Application Architect for Nordstrom.com.
 
 ## Venue / Sponsor
 

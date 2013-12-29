@@ -64,7 +64,7 @@ determined to see it gain more traction in enterprise software systems.
 
 **Ken Perkins - Rackspace**
 
-Lets dive into what it takes to run your Node.js apps in production. The most
+Let's dive into what it takes to run your Node.js apps in production. The most
 important part of running Node.js is actually not related to Node.js at all;
 We'll talk about provisioning assets in the cloud with pkgcloud, configuring
 those instances with Puppet, and keeping it running and monitored. We'll also

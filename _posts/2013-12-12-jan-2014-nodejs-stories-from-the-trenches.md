@@ -44,13 +44,13 @@ down.
 **Kyle McFarland - Piper**
 
 The world of enterprise software is riddled with many hurdles. Unlike the fast
-paced consumer internet, engineers in the enterprise space are faced with many
+paced consumer Internet, engineers in the enterprise space are faced with many
 risks to mitigate and requirements to comply with. In this slower moving space
 how does innovative technology like Node.js take a stand. Is Node.js ready to
 meet the likes of PCI or HIPPA regulations. The team at Piper believes it is.
 Piper is preparing by buttoning up security through Passport.js, Oauth2orize,
 Helmet, and Lusca modules and hammering down on the data model using the latest
-from the json schema specification.
+from the JSON schema specification.
 
 Kyle is the technical co-founded at Piper, a company whose mission statement is
 "All receipts, everywhere, for everyone". His team is building an intelligent
@@ -74,7 +74,7 @@ look at setting up across multiple environments, logging, performance and
 diagnosis of what happens when things go wrong.
 
 Ken is a Developer Advocate for Rackspace (focused on Node.js), building the
-Rackspace & Openstack SDKs as part of pkgcloud, where he is a core committer.
+Rackspace and Openstack SDKs as part of pkgcloud, where he is a core committer.
 Prior to joining Rackspace, Ken was a full stack developer at Clipboard (since
 acquired by SalesForce) where he built and managed the entire application
 architecture and infrastructure from dev to production.
@@ -106,23 +106,5 @@ for Nordstrom.com.
 [Mixpo](http://mixpo.com/) has graciously agreed to host the event and provide
 food and tasty beverages. Mixpo's offices are located at: 520 Pike St, Suite
 1600, Seattle, WA 98101
-
-
-
-
-
-
-
-
-
-
-
-## Extra
-
-We will follow our talks with lightning talks. Anything interesting, difficult, or even just plain weird is welcome. Be it a hackathon, robot, or new project. Please feel free to post ideas in the meetup page comments or come up with something at the last minute at the event!
-
-
-**8:00pm - on**: It's lightning talk time. Come share and hear about the latest
-happenings and going ons with the group.
 
 <!-- more end -->

@@ -8,9 +8,13 @@ tags: [node.js, javascript, meetup, production, security, devops]
 
 Node.js - Stories from the Trenches
 
-The Seattle Node.js Meetup is kicking things into gear in the new year with a panel of talks generally relating to running Node.js in production and with real world (e.g., security) challenges.
+The Seattle Node.js Meetup is kicking things into gear in the new year with a
+panel of talks generally relating to running Node.js in production and with real
+world (e.g., security) challenges.
 
-We are pleased to have Mixpo host the meetup in their brand new offices and provide us with pizza and beverages as we explore Node.js in the software and embedded environments.
+We are pleased to have Mixpo host the meetup in their brand new offices and
+provide us with pizza and beverages as we explore Node.js in the software and
+embedded environments.
 
 As always, you can find all things Seattle Node.js-related at the group website:
 [http://seanode.github.io/](http://seanode.github.io/). And you can reach out
@@ -39,32 +43,69 @@ down.
 
 **Kyle McFarland - Piper**
 
-The world of enterprise software is riddled with many hurdles. Unlike the fast paced consumer internet, engineers in the enterprise space are faced with many risks to mitigate and requirements to comply with. In this slower moving space how does innovative technology like Node.js take a stand. Is Node.js ready to meet the likes of PCI or HIPPA regulations. The team at Piper believes it is. Piper is preparing by buttoning up security through Passport.js, Oauth2orize, Helmet, and Lusca modules and hammering down on the data model using the latest from the json schema specification.
+The world of enterprise software is riddled with many hurdles. Unlike the fast
+paced consumer internet, engineers in the enterprise space are faced with many
+risks to mitigate and requirements to comply with. In this slower moving space
+how does innovative technology like Node.js take a stand. Is Node.js ready to
+meet the likes of PCI or HIPPA regulations. The team at Piper believes it is.
+Piper is preparing by buttoning up security through Passport.js, Oauth2orize,
+Helmet, and Lusca modules and hammering down on the data model using the latest
+from the json schema specification.
 
-Kyle is the technical co-founded at Piper, a company whose mission statement is "All receipts, everywhere, for everyone". His team is building an intelligent solution for receipts. The system allows consumers to connect and store digital receipt data in the cloud through any credit or debit card after every transaction. They have nicknamed their technology "cloud receipts". Kyle is designing solutions to integrate with Point of Sale software and is building a scalable Node.js receipt cloud. He loves the simplicity of Node.js and is determined to see it gain more traction in enterprise software systems.
+Kyle is the technical co-founded at Piper, a company whose mission statement is
+"All receipts, everywhere, for everyone". His team is building an intelligent
+solution for receipts. The system allows consumers to connect and store digital
+receipt data in the cloud through any credit or debit card after every
+transaction. They have nicknamed their technology "cloud receipts". Kyle is
+designing solutions to integrate with Point of Sale software and is building a
+scalable Node.js receipt cloud. He loves the simplicity of Node.js and is
+determined to see it gain more traction in enterprise software systems.
 
 
 ### Preparing and Running Node in Production
 
 **Ken Perkins - Rackspace**
 
-Lets dive into what it takes to run your Node.js apps in production. The most important part of running Node.js is actually not related to Node.js at all; We'll talk about provisioning assets in the cloud with pkgcloud, configuring those instances with Puppet, and keeping it running and monitored. We'll also look at setting up across multiple environments, logging, performance and diagnosis of what happens when things go wrong.
+Lets dive into what it takes to run your Node.js apps in production. The most
+important part of running Node.js is actually not related to Node.js at all;
+We'll talk about provisioning assets in the cloud with pkgcloud, configuring
+those instances with Puppet, and keeping it running and monitored. We'll also
+look at setting up across multiple environments, logging, performance and
+diagnosis of what happens when things go wrong.
 
-Ken is a Developer Advocate for Rackspace (focused on Node.js), building the Rackspace & Openstack SDKs as part of pkgcloud, where he is a core committer. Prior to joining Rackspace, Ken was a full stack developer at Clipboard (since acquired by SalesForce) where he built and managed the entire application architecture and infrastructure from dev to production.
+Ken is a Developer Advocate for Rackspace (focused on Node.js), building the
+Rackspace & Openstack SDKs as part of pkgcloud, where he is a core committer.
+Prior to joining Rackspace, Ken was a full stack developer at Clipboard (since
+acquired by SalesForce) where he built and managed the entire application
+architecture and infrastructure from dev to production.
 
 
-### Nordstrom Data Labs
+### Nordstrom Data Lab
 
 **Jason Wilson, David Von Lehman - Nordstrom**
 
-The Nordstrom Data Lab is building out the next generation recommendations API for Nordstrom.com and beyond. Recommendo, our flagship product, was built from the ground up using Node.js and AWS in a little over three months. Since launch in November we’ve served up over a billion recommendations and survived Black Friday and Cyber Monday without breaking a sweat. We'll be sharing some of the tips and tricks we encountered along the way concentrating on performance testing, cloud deployment and hosting with Elastic Beanstalk, and hooking Node up to DynamoDB.
+The Nordstrom Data Lab is building out the next generation recommendations API
+for Nordstrom.com and beyond. Recommendo, our flagship product, was built from
+the ground up using Node.js and AWS in a little over three months. Since launch
+in November we've served up over a billion recommendations and survived Black
+Friday and Cyber Monday without breaking a sweat. We'll be sharing some of the
+tips and tricks we encountered along the way concentrating on performance
+testing, cloud deployment and hosting with Elastic Beanstalk, and hooking Node
+up to DynamoDB.
 
-Jason and David are developers in the Nordstrom Data Lab focusing on infrastructure development for Nordstrom’s next generation personalization platform. Before joining Nordstrom Jason held various engineering roles in military/defense and gaming. David was previously a member of the Nordstrom Innovation Lab and prior to that spent several years as an Application Architect for Nordstrom.com.
+Jason and David are developers in the Nordstrom Data Lab focusing on
+infrastructure development for Nordstrom's next generation personalization
+platform. Before joining Nordstrom Jason held various engineering roles in
+military / defense and gaming. David was previously a member of the Nordstrom
+Innovation Lab and prior to that spent several years as an Application Architect
+for Nordstrom.com.
+
 
 ## Venue / Sponsor
 
-[Mixpo](http://mixpo.com/) has graciously agreed to host the event and
-provide food and tasty beverages. Mixpo's offices are located at: 520 Pike St, Suite 1600, Seattle, WA 98101
+[Mixpo](http://mixpo.com/) has graciously agreed to host the event and provide
+food and tasty beverages. Mixpo's offices are located at: 520 Pike St, Suite
+1600, Seattle, WA 98101
 
 
 

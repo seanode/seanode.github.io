@@ -2,15 +2,13 @@
 layout: post
 title: "Jan. 2014 Meetup - Stories from the Trenches"
 description: ""
-tags: [node.js, javascript, meetup, production, security, devops]
+tags: [node.js, javascript, meetup, production, security, devops, cloud]
 ---
 {% include JB/setup %}
 
-Node.js - Stories from the Trenches
-
 The Seattle Node.js Meetup is kicking things into gear in the new year with a
-panel of talks generally relating to running Node.js in production and with real
-world (e.g., security) challenges.
+panel of talks relating to running Node.js in production with real world
+challenges like: infrastructure, operations, the cloud, and security.
 
 We are pleased to have Mixpo host the meetup in their brand new offices and
 provide us with pizza and beverages as we explore Node.js in the software and
@@ -80,7 +78,7 @@ acquired by SalesForce) where he built and managed the entire application
 architecture and infrastructure from dev to production.
 
 
-### Nordstrom Data Lab
+### Node.js at Nordstrom Data Lab
 
 **Jason Wilson, David Von Lehman - Nordstrom**
 

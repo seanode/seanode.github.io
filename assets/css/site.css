@@ -65,6 +65,28 @@ h1.post-title a {
 }
 
 /******************************************************************************
+ * Post (Full)
+ *****************************************************************************/
+
+img.centered,
+.post-full .content p img {
+  border: none;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+img.bordered {
+  border:0;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  -webkit-box-shadow:3px 3px 4px #999;
+     -moz-box-shadow:3px 3px 4px #999;
+          box-shadow:3px 3px 4px #999
+}
+
+/******************************************************************************
  * Post Snippets
  *****************************************************************************/
 .page-posts .post {

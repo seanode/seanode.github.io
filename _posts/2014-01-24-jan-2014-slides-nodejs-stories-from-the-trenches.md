@@ -13,6 +13,10 @@ with real world challenges like: infrastructure, operations, the cloud, and
 security. [Mixpo](http://mixpo.com/) hosted the event and provided us with
 pizza and beverages and a great introductory presentation on the company.
 
+<img class="centered bordered" alt="Panel discussion"
+     style="width: 100%; max-width: 400px;"
+     src="/assets/img/meetup/20140121-trenches-panel.jpg">
+
 Four speakers across three companies shared their insights, pains and triumphs
 running Node.js in the wild. [Rex St John](http://rexstjohn.com/) was kind
 enough to write out broad notes from the talks and panel discussions, which
@@ -30,7 +34,7 @@ And, we now have slide decks from all of the panelists!
 > paced consumer Internet, engineers in the enterprise space are faced with many
 > risks to mitigate and requirements to comply with. In this slower moving space
 > how does innovative technology like Node.js take a stand. Is Node.js ready to
-> meet the likes of PCI or HIPPA regulations. The team at Piper believes it is.
+> meet the likes of PCI or HIPPA regulations? The team at Piper believes it is.
 > Piper is preparing by buttoning up security through Passport.js, Oauth2orize,
 > Helmet, and Lusca modules and hammering down on the data model using the latest
 > from the JSON schema specification.

@@ -13,8 +13,8 @@ fantastic panel of speakers, including TJ Fontaine, the Node.js project lead.
 
 We're thrilled to have Seattle host the show along with San Francisco and
 Portland, and hope to see have you join us! Please join us **Tuesday, March 18,
-2014** from 6:00 to 9:00 PM for this great opportunity to listen to and interact
-with folks who are in the guts of Node.js.
+2014** from **6:00 to 9:00 PM** for this great opportunity to listen to and
+interact with folks who drive and lead Node.js.
 
 <img class="centered" alt="Joyent"
      style="width: 100%; max-width: 300px;"

@@ -12,7 +12,7 @@ The Seattle Node.js Meetup is pleased to announce that the fine folks at
 fantastic panel of speakers, including TJ Fontaine, the Node.js project lead.
 
 We're thrilled to have Seattle host the show along with San Francisco and
-Portland, and hope to see have you join us! Please join us **Tuesday, March 18,
+Portland, and hope to see you out! Please join us **Tuesday, March 18,
 2014** from **6:00 to 9:00 PM** for this great opportunity to listen to and
 interact with folks who drive and lead Node.js.
 
@@ -52,6 +52,9 @@ A little more background into the aim of Joyent's [Road Show](http://www.joyent.
 > <br />
 > <br />
 > It's going to be a fun trip. I can't wait to share with you all the exciting things going on with Node, and to get more people involved.
+
+You can follow additional updates via Twitter with the
+[#NodeRoad](https://twitter.com/search?q=%23NodeRoad) hashtag.
 
 ## Sponsor
 

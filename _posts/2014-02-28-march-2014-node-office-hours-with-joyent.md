@@ -29,3 +29,6 @@ ask any questions you have - cloud, security, DevOps, frameworks, or anything!
 Anyone working with (or interested in learning about) Node.js is most welcome.
 We'll have a mix of different backgrounds and experience in Node.js and look
 forward to everyone sharing what they know and learning at the same time.
+
+Take a moment to leave a comment about what you are interested in talking about
+or hacking on when you RSVP!

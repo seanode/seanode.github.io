@@ -10,6 +10,10 @@ The Seattle Node.js Meetup is pleased to announce that the fine folks at
 [Joyent](http://www.joyent.com/) are coming up to Seattle as a part of their
 ["Node.js on the Road"](http://www.joyent.com/noderoad) show and bringing a
 fantastic panel of speakers, including TJ Fontaine, the Node.js project lead.
+The event will be held at
+[SURF Incubator's](http://www.surfincubator.com)
+[Dice Cabana](http://www.surfincubator.com/suite-410/)
+meeting space downtown.
 
 We're thrilled to have Seattle host the show along with San Francisco and
 Portland, and hope to see you out! Please join us **Tuesday, March 18,

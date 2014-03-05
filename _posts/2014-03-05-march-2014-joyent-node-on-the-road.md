@@ -20,12 +20,25 @@ interact with folks who drive and lead Node.js.
      style="width: 100%; max-width: 300px;"
      src="/assets/img/meetup/joyent-logo.png">
 
+In addition, the speakers and other Seattle-area Node.js experts are coming out
+for our inaugural
+["Node.js Office Hours"](http://www.meetup.com/Seattle-Node-js/events/168809522/)
+the next day, **Wednesday, March 19**, hosted at
+[DevLocal](http://devlocal.io/) in Fremont.
+
+So come see the talks and panel on Tuesday, and hack on Node.js with the pro's
+on Wednesday!
+
 ## Registration
 
-This special event has a **dedicated [EventBrite registration page](https://www.eventbrite.com/e/nodejs-on-the-road-seattle-tickets-10630531205)**
+This special event has a **dedicated
+[EventBrite registration page](https://www.eventbrite.com/e/nodejs-on-the-road-seattle-tickets-10630531205)**
 that you will need to sign up for in addition to your usual Meetup RSVP on the
 meetup event page. Double sign-up is a bit of a hassle, but this allows us and
 Joyent to keep the RSVPs under control and ensure a wonderful night for all.
+
+Then you can also RSVP at the
+[Meetup event page](http://www.meetup.com/Seattle-Node-js/events/167600252/).
 
 ## Panelists
 

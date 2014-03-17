@@ -10,7 +10,8 @@ The Seattle Node.js Meetup is pleased to announce that the fine folks at
 [Joyent](http://www.joyent.com/) are coming up to Seattle as a part of their
 ["Node.js on the Road"](http://www.joyent.com/noderoad) show and bringing a
 fantastic panel of speakers, including TJ Fontaine, the Node.js project lead.
-The event will be held at
+The [event](http://www.meetup.com/Seattle-Node-js/events/167600252/)
+will be held at
 [SURF Incubator's](http://www.surfincubator.com)
 [Dice Cabana](http://www.surfincubator.com/suite-410/)
 meeting space downtown.
@@ -46,12 +47,12 @@ Then you can also RSVP at the
 
 ## Panelists
 
-We're still forming up the complete agenda, but here's what we have in store
-for you so far:
+We have a great group of Node.js core project and community developers:
 
 * **[TJ Fontaine](https://twitter.com/tjfontaine)** - Node.js Project Lead, Joyent
 * **[Ben Acker](https://twitter.com/nvcexploder)** - Senior Software Engineer, Walmart Labs
-* ... more speakers, and Q/A session after the talks ...
+* **[Nate Fitch](https://twitter.com/tumederanges)** - Software Engineer, Joyent
+* **[David Corona](https://twitter.com/davesters)** - Software Development Engineer, NBC News Digital
 
 <!-- more start -->
 

@@ -2,11 +2,12 @@
 layout: post
 title: "June 2014 Meetup - Migrations, Clouds, and High-Performance Node.js"
 description: ""
-tags: [node.js, javascript, meetup, production, cloud]
+tags: [node.js, javascript, meetup, performance, migration, cloud]
 ---
 {% include JB/setup %}
 
-The Seattle Node.js Meetup is pleased announce our next meetup with talks on
+The Seattle Node.js Meetup is pleased announce our next meetup on
+**Wednesday, June 25, 2014** with talks on
 migrating application stacks to Node.js and high-performance node. We'll get
 pizza and beverages thanks to our wonderful host Mixpo as we mix, mingle and
 Node away in their swanky downtown offices.

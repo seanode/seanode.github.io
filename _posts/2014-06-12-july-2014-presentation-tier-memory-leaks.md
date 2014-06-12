@@ -54,8 +54,8 @@ military / defense and gaming.
 
 **John Cokos - UI Engineer, ADP\|Cobalt**
 
-*Panel: Jason Taylor, Benjamin Waite, Brett Ritter, Fumiyo Conway-Yasuyama
-(Senior UI Engineers at ADP\|Cobalt)*
+*Panel: Jason Taylor, Benjamin Waite, Brett Ritter, Fumiyo Conway-Yasuyama, Ben
+Hakala (Senior UI Engineers at ADP\|Cobalt)*
 
 Our core product is a CMS which powers over 20,000 websites from a common
 codebase through a (mostly) common theming system constructed using variously

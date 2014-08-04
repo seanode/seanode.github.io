@@ -7,10 +7,12 @@ tags: [node.js, javascript, meetup, irc, bot]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased announce our next
-[meetup](http://www.meetup.com/Seattle-Node-js/events/188656412/)
+**meetup**
 on **Tuesday, August 26, 2014** with a fun workshop. We'll get
 pizza and beverages thanks to [Formidable Labs](http://formidablelabs.com/)
-as we venture to Fremont for an evening of hacking fun.
+as we venture to Fremont for an evening of hacking fun. Please bring a laptop
+and local Node.js installation (we all have that, right?) so that we can all
+code up our own bots!
 
 As always, you can find all things Seattle Node.js-related at the group website:
 [http://seanode.github.io/](http://seanode.github.io/). And you can reach out to

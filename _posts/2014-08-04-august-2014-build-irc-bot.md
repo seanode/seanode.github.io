@@ -23,7 +23,7 @@ See you soon!
 
 ## Agenda
 
-**6:00 - 6:30pm**: Start with pizza and beer, courtesy of Cobalt.
+**6:00 - 6:30pm**: Start with pizza and beer, courtesy of Formidable Labs.
 
 **6:30pm - 7:30pm**: Build a bot with Node.js!
 

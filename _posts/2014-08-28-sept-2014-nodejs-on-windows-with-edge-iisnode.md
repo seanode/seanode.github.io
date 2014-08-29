@@ -2,7 +2,7 @@
 layout: post
 title: "Sept. 2014 Meetup - Node.js on the Edge (on Windows)"
 description: ""
-tags: [node.js, javascript, meetup, edge, iis, windows]
+tags: [node.js, javascript, meetup, edge, iisnode, iis, windows]
 ---
 {% include JB/setup %}
 
@@ -10,7 +10,7 @@ The Seattle Node.js Meetup is pleased announce our next
 [meetup](TODO)
 on **Wednesday, Sept. 17, 2014** with talks on
 modern Node.js development on the Microsoft stack. We'll get
-pizza and beverages thanks to our wonderful host Mixpo downtown.
+pizza and beverages thanks to our wonderful host Mixpo.
 
 As always, you can find all things Seattle Node.js-related at the group website:
 [http://seanode.github.io/](http://seanode.github.io/). And you can reach out to
@@ -37,7 +37,7 @@ down.
 
 **[Dan Polivy](http://www.cellartracker.com/content.asp?iContent=11) - CellarTracker**
 
-Node.js on Windows, in production, may not be the most common configuration -- but it's immensely powerful with the help of [edge.js](http://tjanczuk.github.io/edge/), [iisnode](https://github.com/tjanczuk/iisnode), and other open source projects. In fact, it's a great tool for building highly performant, scalable front- and back-end websites on the Microsoft stack (IIS, .NET, SQL Server, etc).
+Node.js on Windows, in production, may not be the most common configuration -- but it's immensely powerful with the help of [edge.js](http://tjanczuk.github.io/edge/), [iisnode](https://github.com/tjanczuk/iisnode), and other open source projects. In fact, it's a great tool for building highly performant, scalable front- and back-end websites on the Microsoft stack (IIS, .NET, SQL Server, etc.).
 
 In this talk, I'll share some details, tips-and-tricks, and experiences building a production website on Windows, using CellarTracker -- the world's largest collection of community wine reviews and tools for cellar management -- as an example.
 
@@ -47,7 +47,7 @@ Dan is the Director of Engineering at [CellarTracker](http://www.cellartracker.c
 
 **[Tomasz Janczuk](https://twitter.com/tjanczuk)**
 
-Tomasz is the creator of [edge.js](http://tjanczuk.github.io/edge/) and [iisnode](https://github.com/tjanczuk/iisnode) and will do a deep dive on working with .NET running in-process with Node.js and vice-versa with edge.js
+Tomasz is the creator of [edge.js](http://tjanczuk.github.io/edge/) and [iisnode](https://github.com/tjanczuk/iisnode) and will do a deep dive on working with .NET running in-process with Node.js and vice-versa with edge.js.
 
 
 ## Venue / Sponsor

@@ -7,7 +7,7 @@ tags: [node.js, javascript, meetup, edge, iisnode, iis, windows]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased announce our next
-[meetup](TODO)
+[meetup](http://www.meetup.com/Seattle-Node-js/events/203870392/)
 on **Wednesday, Sept. 17, 2014** with talks on
 modern Node.js development on the Microsoft stack. We'll get
 pizza and beverages thanks to our wonderful host Mixpo.

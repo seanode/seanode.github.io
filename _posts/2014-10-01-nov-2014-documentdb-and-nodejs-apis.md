@@ -7,7 +7,7 @@ tags: [node.js, javascript, meetup, documentdb, api]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased announce our
-[meetup](XXXX)
+[meetup](http://www.meetup.com/Seattle-Node-js/events/210808762/)
 on **Thursday, Nov. 20** with talks on building Node.js applications around
 the DocumentDB NoSQL datastore and designing your own API server. Microsoft
 is hosting us at their SLU offices on the west side.

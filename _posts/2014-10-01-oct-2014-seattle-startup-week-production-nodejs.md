@@ -10,7 +10,7 @@ As part of [Seattle Startup Week](http://seattle.startupweek.co/),
 the Seattle Node.js Meetup is going to hold a very special evening focused on
 Node.js in production with talks and panel discussion. Mark your calendars
 for **Wednesday, Oct. 22** and RSVP on the
-[meetup page](XXXX).
+[meetup page](http://www.meetup.com/Seattle-Node-js/events/210801942/).
 We'll have pizza and beverages, thanks to our
 gracious host, [Moz](http://moz.com/).
 
@@ -25,10 +25,10 @@ See you soon!
 
 **6:00 - 6:45pm**: Start with pizza and beer, courtesy of Moz.
 
-**6:45 - 8:00pm**: Listen to some awesome talks, questions and answers from
+**6:45 - 9:00pm**: Listen to some awesome talks, questions and answers from
 the panel.
 
-**8:00pm - on**: Mingle, mix, chat things Node.js-related and more as we wind
+**9:00pm - on**: Mingle, mix, chat things Node.js-related and more as we wind
 down.
 
 

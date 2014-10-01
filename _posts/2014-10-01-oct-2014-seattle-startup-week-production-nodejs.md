@@ -9,7 +9,9 @@ tags: [node.js, javascript, meetup, production, startup, seattle]
 As part of [Seattle Startup Week](http://seattle.startupweek.co/),
 the Seattle Node.js Meetup is going to hold a very special evening focused on
 Node.js in production with talks and panel discussion. Mark your calendars
-for **Wednesday, Oct. 22**. We'll have pizza and beverages, thanks to our
+for **Wednesday, Oct. 22** and RSVP on the
+[meetup page](XXXX).
+We'll have pizza and beverages, thanks to our
 gracious host, [Moz](http://moz.com/).
 
 As always, you can find all things Seattle Node.js-related at the group website:

@@ -21,7 +21,7 @@ See you soon!
 
 ## Agenda
 
-**6:30 - 7:00pm**: Start with pizza and beer, courtesy of StormPath.
+**6:30 - 7:00pm**: Start with pizza and beer, courtesy of Stormpath.
 
 **7:00pm - 8:00pm**: Listen to some awesome talks.
 
@@ -49,17 +49,25 @@ Andrew is a program manager working on the Azure DocumentDB team at Microsoft,
 and has recently fallen in love with Node.js. Before that, he was a software
 development engineer working on the e-commerce platform at Amazon.
 
-### Building APIs with Node.js
+### How to Build an API Service in 30 Minutes with Express.js
 
-**[Randall Degges](https://twitter.com/rdegges) - [StormPath](https://stormpath.com/)**
+**[Randall Degges](https://twitter.com/rdegges) - [Stormpath](https://stormpath.com/)**
 
-*Abstract and bio forthcoming...*
+Want to build an API service? It's not as hard as you think! In this talk
+Randall will walk you through building an API service from the ground up. You'll
+go from an empty directory to a fully functional, publicly consumable service
+that can create and authenticate user accounts and API requests, bill
+developers, and a provide a simple UI.
+
+Randall is a Developer Evangelist at Stormpath, and a happy programmer. He likes
+to hack stuff.
+
 
 ## Venue / Sponsors
 
 [Microsoft](http://www.microsoft.com/) is hosting us at their Westlake-Terry
 office in SLU at: 320 Westlake Ave N, Seattle, WA 98109.
 
-[StormPath](https://stormpath.com/) is graciously sponsoring food and beverages.
+[Stormpath](https://stormpath.com/) is graciously sponsoring food and beverages.
 
 <!-- more end -->

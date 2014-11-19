@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nov. 2014 Meetup - DocumentDB and Writing Node.js APIs"
+title: "Nov. 2014 Meetup - DocumentDB and Writing Node.js Authentication"
 description: ""
 tags: [node.js, javascript, meetup, documentdb, api]
 ---
@@ -9,7 +9,7 @@ tags: [node.js, javascript, meetup, documentdb, api]
 The Seattle Node.js Meetup is pleased announce our
 [meetup](http://www.meetup.com/Seattle-Node-js/events/210808762/)
 on **Thursday, Nov. 20** with talks on building Node.js applications around
-the DocumentDB NoSQL datastore and designing your own API server. Microsoft
+the DocumentDB NoSQL datastore and authenticating your Node servers. Microsoft
 is hosting us at their SLU offices on the west side.
 
 As always, you can find all things Seattle Node.js-related at the group website:
@@ -49,15 +49,29 @@ Andrew is a program manager working on the Azure DocumentDB team at Microsoft,
 and has recently fallen in love with Node.js. Before that, he was a software
 development engineer working on the e-commerce platform at Amazon.
 
-### How to Build an API Service in 30 Minutes with Express.js
+### Everything you Wanted to Know About Authentication
 
 **[Randall Degges](https://twitter.com/rdegges) - [Stormpath](https://stormpath.com/)**
 
-Want to build an API service? It's not as hard as you think! In this talk
-Randall will walk you through building an API service from the ground up. You'll
-go from an empty directory to a fully functional, publicly consumable service
-that can create and authenticate user accounts and API requests, bill
-developers, and a provide a simple UI.
+Authentication is one of the least understood areas in web development -- and
+there's a lot to know: how cookies and sessions work, how to properly encrypt
+user sessions, how to safely log users in and out of a web application, which
+libraries to use, etc.
+
+In this presentation, Randall Degges, Stormpath Developer Evangelist will share
+all of the best practices he learned while building Stormpath's Express.js
+authentication libraries. In this talk, you will learn how to safely log users
+into web applications, secure REST APIs, the low-level details that make this
+possible, and which Node libraries you should be using (and where).
+
+He will cover:
+
+* How HTTP authentication works (form based and API based).
+* What are cookies, and how do they work?
+* How do sessions work?
+* What is the best way to store user state in Node applications?
+* What sort of encryption should be used to secure client-side cookies?
+* Where does SSL fit into the picture?
 
 Randall is a Developer Evangelist at Stormpath, and a happy programmer. He likes
 to hack stuff.

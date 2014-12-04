@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dec. 2014 Meetup - Diving into Node.js / Creating JavaScript DSLs"
+title: "Dec. 2014 Meetup - Diving into Node.js / Creating JavaScript DSLs / NSQ Message Queues"
 description: ""
 tags: [node.js, javascript, meetup, learning, dsl]
 ---
@@ -8,7 +8,9 @@ tags: [node.js, javascript, meetup, learning, dsl]
 
 The Seattle Node.js Meetup is pleased announce our
 [meetup](http://www.meetup.com/Seattle-Node-js/events/218658035/)
-on **Wednesday, Dec. 10** with talks on leading a new team into Node.js and creating domain-specific languages in JavaScript. Mixpo is once again graciously
+on **Wednesday, Dec. 10** with talks on leading a new team into Node.js,
+creating domain-specific languages in JavaScript, and using the NSQ distributed
+messaging platform with Node.js. Mixpo is once again graciously
 hosting us downtown.
 
 As always, you can find all things Seattle Node.js-related at the group website:
@@ -63,6 +65,11 @@ work on the road, which brings him to distant and exotic places like Seattle.
 Prior to this, he was a backend developer at Hinch.as and Inaka, and before that
 he worked as a financial analyst.
 
+### Scaling (breaking things) using Bitly’s NSQ and Node.js
+
+**[Dudley Carr](http://moz.com/about/team/dudley) - [Moz](http://moz.com/)**
+
+_Abstract forthcoming_
 
 ## Venue / Sponsors
 

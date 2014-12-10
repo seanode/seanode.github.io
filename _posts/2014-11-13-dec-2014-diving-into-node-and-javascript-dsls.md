@@ -24,9 +24,9 @@ See you soon!
 
 **6:30 - 7:00pm**: Start with pizza and beer, courtesy of Joyent.
 
-**7:00pm - 8:00pm**: Listen to some awesome talks.
+**7:00pm - 8:30pm**: Listen to some awesome talks.
 
-**8:00pm - on**: Mingle, mix, chat things Node.js-related and more as we wind
+**8:30pm - on**: Mingle, mix, chat things Node.js-related and more as we wind
 down.
 
 <!-- more start -->
@@ -69,7 +69,16 @@ he worked as a financial analyst.
 
 **[Dudley Carr](http://moz.com/about/team/dudley) - [Moz](http://moz.com/)**
 
-_Abstract forthcoming_
+Bit.ly's NSQ is an incredibly powerful way to process streams of data at scale.
+Moz has successfully used Bit.ly's data to large scale collection of social data
+as well as use it for a pipeline of offline processing for Moz Local. The
+presentation will be partly about what NSQ is and what makes it unique, and how
+we used it in combination with NodeJS within Moz.
+
+Dudley is the VP of Engineering at Moz focused on Moz Local. Dudley's 2.5 yrs at
+Moz has been focused on incubating new products and extinguishing fires. Prior
+to Moz, I've done startups and worked at Google for 5 yrs on Google Voice and
+Chrome.
 
 ## Venue / Sponsors
 

@@ -43,6 +43,13 @@ Elasticsearch is a popular open source search and analytics engine built for dis
 
 Trent Swanson is a Solutions Architect and Co-founder at Full Scale 180. Prior to Full Scale 180 Trent worked at Microsoft where he started out as an Embedded Systems Specialist and was a Cloud Solutions Architect when he left to start his own business... again.
 
+### Building a Messaging Service on Node.js and Elasticsearch
+
+**Joseph Ellsworth - [Bayes Analytic LLC](http://bayesanalytic.com/)**
+
+Elasticsearch is a popular open source search and analytics engine that built on the same platform as Lucene. Bayes has built an in-app messaging engine in Node.js which uses Elasticsearch as the primary write and read storage system. In-app messaging is a challenging problem because messages need to show up in the next search results so users can see the thread. Elasticsearch made some aspects of this application easier because it allows a simple query to pull both sides of a thread with relatively simple queries and to filter those messages for access by customer service. Elasticsearch's ability to incrementally add data to records without defining new record types has already been used. We could have delivered the solution on a database building it over Elasticsearch has made it easier and faster. We will dive into the elastic semantics for creating the index, and show the REST interface and how we use Node.js to transform the message structure from Elasticsearch to something that is domain specific for the messaging service as part of the service interface. Node.js was instrumental for this application because Elasticsearch on boxes this size can easily be tipped over under excess load demand. Our implementation of request queues keeps the demand against Elasticsearch at a metered max which allows it to perform optimally and has been tested to hundreds of inbound connections. This service is deployed by a PeerSpace, a company in the Silicon Valley, who depends on it to broker anonymized messages between buyers and sellers of premium event spaces.
+
+Joseph Ellsworth is the CTO of Chief algorithms scientist at Bayes Analytic LLC a consulting company that also works on predictive stock and forex algorithms. Prior the Bayes Analytic he was Chief Architect at Corbis Images where he was responsible for the search and metadata pipeline. Prior to Corbis he was a principal engineer at Amazon and CTO of a venture funded startup in the search space. At Bayes most of our customers are paying for high end distributed systems problem solving but we tend to focus on search or information discovery as a sub specialty.
 
 ## Venue / Sponsors
 

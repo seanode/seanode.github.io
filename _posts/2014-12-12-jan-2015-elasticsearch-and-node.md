@@ -13,8 +13,8 @@ and
 on [**Tuesday, Jan. 20, 2015**](http://www.meetup.com/Seattle-Node-js/events/219191483/)
 with talks on using the
 [Elasticsearch](http://www.elasticsearch.org/) search server in
-[Node.js](http://nodejs.org/) server-side JavaScript applications. We are very
-pleased to have NBC hosting us downtown and providing tasty food / beverages.
+[Node.js](http://nodejs.org/) server-side JavaScript applications. NBC will be
+hosting us downtown and providing tasty food / beverages.
 
 As always, you can find all things Seattle Node.js-related at the group website:
 [http://seanode.github.io/](http://seanode.github.io/). And you can reach out to

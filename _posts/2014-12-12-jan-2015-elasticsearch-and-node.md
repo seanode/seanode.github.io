@@ -13,7 +13,8 @@ and
 on [**Tuesday, Jan. 20, 2015**](http://www.meetup.com/Seattle-Node-js/events/219191483/)
 with talks on using the
 [Elasticsearch](http://www.elasticsearch.org/) search server in
-[Node.js](http://nodejs.org/) server-side JavaScript applications.
+[Node.js](http://nodejs.org/) server-side JavaScript applications. We are very
+pleased to have NBC hosting us downtown and providing tasty food / beverages.
 
 As always, you can find all things Seattle Node.js-related at the group website:
 [http://seanode.github.io/](http://seanode.github.io/). And you can reach out to
@@ -24,7 +25,7 @@ See you soon!
 
 ## Agenda
 
-**6:30 - 7:00pm**: Start with beverages and food.
+**6:30 - 7:00pm**: Start with beverages and food, courtesy of NBC.
 
 **7:00pm - 8:00pm**: Listen to some awesome talks.
 
@@ -53,6 +54,7 @@ Joseph Ellsworth is the CTO of Chief algorithms scientist at Bayes Analytic LLC 
 
 ## Venue / Sponsors
 
-Our venue is TBD, but likely somewhere in downtown or SoDo.
+NBC is providing our venue and food / beverages. The event will be hosted on
+the 40th floor of the Columbia Tower at: 701 5th Ave Seattle, WA 98104.
 
 <!-- more end -->

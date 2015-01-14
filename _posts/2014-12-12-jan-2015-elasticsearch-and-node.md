@@ -52,6 +52,10 @@ Elasticsearch is a popular open source search and analytics engine that built on
 
 Joseph Ellsworth is the CTO of Chief algorithms scientist at Bayes Analytic LLC a consulting company that also works on predictive stock and forex algorithms. Prior the Bayes Analytic he was Chief Architect at Corbis Images where he was responsible for the search and metadata pipeline. Prior to Corbis he was a principal engineer at Amazon and CTO of a venture funded startup in the search space. At Bayes most of our customers are paying for high end distributed systems problem solving but we tend to focus on search or information discovery as a sub specialty.
 
+## Q & A
+
+In addition to having our wonderful speakers available for questions after the talks, we're extremely pleased have [Kurt Hurtado](https://twitter.com/kurtado) and [Rashid Khan](https://twitter.com/rashidkpc) from the Elasticsearch team also participate in the discussion. Additionally, we'll have 3-4 other Elasticsearch developers in the audience.
+
 ## Venue / Sponsors
 
 NBC is providing our venue and food / beverages. The event will be hosted on

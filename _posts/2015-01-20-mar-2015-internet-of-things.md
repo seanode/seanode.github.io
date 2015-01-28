@@ -30,21 +30,7 @@ down.
 
 <!-- more start -->
 
-## Speakers
-
-### TODO_TITLE
-
-* **[Jeremy Foster](https://twitter.com/codefoster) - [Microsoft](http://www.microsoft.com/)**
-
-**Talk title / abstract forthcoming**
-
-Jeremy's Bio:
-
-I studied Computer Engineering and Mathematics in school a long time ago, and have thoroughly enjoyed my career course ever since - primarily teaching and software development and primarily on the web stack. I gained experience in education, aerospace manufacturing, and insurance, and eventually joined Microsoft with the goal of informing and inspiring software developers. I authored my first book CSS for Windows 8 App Development, published a course on Pluralsight.com, and try to keep up with audiences via my blog codefoster.com and my Twitter feed @codefoster. When I'm not working, I'm working on maker projects, spending time with my wife and sons, hiking and camping, sailing, scuba diving, or working on house projects.
-
-### TODO_TITLE
-
-* **[Loren West](https://twitter.com/lorenwest) - [CDK Global](http://www.cdkglobaldigitalmarketing.com/)**
+## Internet of Things (IoT) with Node.js
 
 So you want to play with devices, maker projects, and the Internet of Things, but you want to use the web technology that you already know and love? No problem! JavaScript is everywhere... including on devices.
 
@@ -57,7 +43,13 @@ In this session, we'll...
 
 What do you need to know? You'll be fine and have fun if you have no experience at all, but a conceptual grasp of electronics, JavaScript, and Node.js will be helpful.
 
-Loren's Bio:
+Your guides in this small-scale adventure are Jeremy and Loren:
+
+**[Jeremy Foster](https://twitter.com/codefoster) - [Microsoft](http://www.microsoft.com/)**
+
+I studied Computer Engineering and Mathematics in school a long time ago, and have thoroughly enjoyed my career course ever since - primarily teaching and software development and primarily on the web stack. I gained experience in education, aerospace manufacturing, and insurance, and eventually joined Microsoft with the goal of informing and inspiring software developers. I authored my first book CSS for Windows 8 App Development, published a course on Pluralsight.com, and try to keep up with audiences via my blog codefoster.com and my Twitter feed @codefoster. When I'm not working, I'm working on maker projects, spending time with my wife and sons, hiking and camping, sailing, scuba diving, or working on house projects.
+
+**[Loren West](https://twitter.com/lorenwest) - [CDK Global](http://www.cdkglobaldigitalmarketing.com/)**
 
 I enjoy building things. Software, hardware, companies, houses, if it needs building or fixing you'll see me there. A software developer by trade with a focus on NodeJS from web frontend through distributed backend systems.  Author of node-config, node-monitor, and other open source NodeJS projects. While not in front of a keyboard, you'll find me building and deploying robots around the house. I enjoy skiing, flying, boating, art festivals, and coming home to a freshly trimmed lawn by Moe - our lawn robot.
 

@@ -7,7 +7,7 @@ tags: [node.js, javascript, meetup, async, streamline]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased announce our
-[meetup](TODO)
+[meetup](http://www.meetup.com/Seattle-Node-js/events/220283112/)
 on **Tuesday, Feb. 17th** with a talk on asynchronous programming
 hosted at Disney's offices downtown.
 
@@ -20,7 +20,7 @@ See you soon!
 
 ## Agenda
 
-**6:30 - 7:00pm**: Start with pizza and beer, courtesy of TODO.
+**6:30 - 7:00pm**: Start with pizza and beer, courtesy of Disney.
 
 **7:00pm - 8:30pm**: Listen and learn about Node awesomeness.
 
@@ -41,8 +41,6 @@ Seth is co-founder and head of engineering at Rival IQ. Previously he co-founded
 
 ## Venue / Sponsors
 
-Disney is hosting us on the 4th floor of the 4th and Madison building at:
-925 4th Ave, Suite 400, Seattle, WA 98104
-
+Disney is hosting us at the 4th and Madison building at: 925 4th Ave, Suite 1600, Seattle, WA 98104. Please take the elevator up to the Disney reception on the 16th floor, were you will then be escorted down to the 10th floor for the actual meetup.
 
 <!-- more end -->

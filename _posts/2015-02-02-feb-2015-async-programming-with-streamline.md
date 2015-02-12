@@ -22,10 +22,9 @@ See you soon!
 
 **6:30 - 7:00pm**: Start with pizza and beer, courtesy of Disney.
 
-**7:00pm - 8:30pm**: Listen and learn about Node awesomeness.
+**7:00pm - 7:45pm**: Listen and learn about Node Streamline.js.
 
-**8:30pm - on**: Mingle, mix, chat things Node.js-related and more as we wind
-down.
+**7:45pm - on**: We will turn the rest of our time over to the group for a series of **lightning talks**. Please bring your ideas and projects to share with the group! After that, we'll mingle, mix, chat things Node.js-related and more as we wind down.
 
 <!-- more start -->
 

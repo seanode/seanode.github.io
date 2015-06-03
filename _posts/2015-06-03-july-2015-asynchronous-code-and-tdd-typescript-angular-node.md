@@ -7,8 +7,10 @@ tags: [node.js, javascript, asynchronous, tdd, angularjs, typescript]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased announce our
-[meetup](XXX)
+[meetup](http://www.meetup.com/Seattle-Node-js/events/222998460/)
 on **Wednesday, July 1st** with talks on asynchronous programming and TDD.
+New sponsor DoubleDown Interactive is providing us with food, drinks and the
+venue at Impact HUB.
 
 As always, you can find all things Seattle Node.js-related at the group website:
 [http://seanode.github.io/](http://seanode.github.io/). And you can reach out to

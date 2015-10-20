@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Oct. 2015 Meetup - TaskMill.io and Operational Transformation"
+title: "Oct. 2015 Meetup - Open Clouds and Operational Transformation"
 description: ""
 tags: [node.js, javascript, NPM]
 ---
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased announce our
-[meetup](TODO_XXX)
+[meetup](http://www.meetup.com/Seattle-Node-js/events/226175038/)
 on **Tuesday, Nov. 17th** with a discussion of Node.js tasks and operational
 transformation.
 
@@ -30,14 +30,30 @@ See you soon!
 
 ## Talks
 
-### TaskMill.io
+### Automate All The Things! A Node.js Open Cloud
 
-**[Ahmed Kamel](https://github.com/a7medkamel)**
+**[Ahmed Kamel](https://twitter.com/ahmedkamel)**
 
-TODO_TBA
+Node.js is great for creating microservices. Yet, whether your project is big or
+small, you still spend the same amount of time managing your VMs. Keeping your
+small services running is often much more costly than the actual coding.
 
+We would automate much more if the environment were abstracted away.
 
-### Take your Game into OT
+Join us in learning about TaskMill's Open Source extreme microservices platform
+where you check-in your scripts to GitHub and we turn each into an HTTP
+endpoint. See how we are building an Docker-powered Open Cloud where we build on
+top of each other's scripts to Automate All The Things!
+
+Ahmed is an avid builder. By afternoon he is a UI team architect at Microsoft,
+by late night he is the founder of Taskmill.io. Previously, he worked on
+Internet Explorer, building popular features like the Developer Toolbar.
+
+Taskmill.io is a Node.js platform for bringing ease of automation to your micro
+tasks and quickly bringing your ideas to life. Try it out at Taskmill.io or
+reach out to Ahmed at [@ahmedkamel](https://twitter.com/ahmedkamel).
+
+### Take Your Game Into OT
 
 **[Todd Kennedy](https://github.com/toddself)**
 

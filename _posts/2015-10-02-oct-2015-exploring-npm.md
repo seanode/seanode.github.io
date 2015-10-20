@@ -21,7 +21,7 @@ See you soon!
 
 **6:30 - 7:00pm**: Start with beverages and food, courtesy of Mixpo.
 
-**7:00pm - 8:30pm**: Listen and learn about Node.js and NPM!.
+**7:00pm - 8:30pm**: Listen and learn about Node.js and NPM!
 
 **8:30pm - on**: Mingle, mix, chat things Node.js-related and more as we wind down.
 

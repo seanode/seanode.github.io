@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oct. 2015 Meetup - Open Clouds and Operational Transformation"
+title: "Nov. 2015 Meetup - Open Clouds and Operational Transformation"
 description: ""
 tags: [node.js, javascript, NPM]
 ---

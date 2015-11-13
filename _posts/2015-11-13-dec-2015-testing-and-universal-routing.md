@@ -7,7 +7,7 @@ tags: [node.js, javascript, testing, react, hapi, routing]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased announce our
-[meetup](TODO)
+[meetup](http://www.meetup.com/Seattle-Node-js/events/226760608/)
 on **Tuesday, Dec. 15th** with a discussion of upping your test game and wrangling server / client (universal) routing.
 
 As always, you can find all things Seattle Node.js-related at the group website:
@@ -56,8 +56,8 @@ examples of universal rendering and storing router state in redux. In this talk,
 Jamie will introduce ruto, a hapi plugin for universal routing, and highlight a
 simple way to manage project tasks with npm.
 
-_Bio_: Jamie helped create products at eBay, Amazon, Yahoo, Yummly and Voicekick as
-both an engineer and designer.
+_Bio_: Jamie helped create products at eBay, Amazon, Yahoo, Yummly and Voicekick
+as both an engineer and designer.
 
 ## Venue / Sponsor
 

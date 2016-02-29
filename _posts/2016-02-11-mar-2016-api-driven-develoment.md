@@ -41,4 +41,10 @@ See you soon!
 Galvanize's Seattle campus is located in Pioneer Square:
 111 S Jackson St. Seattle WA 98104
 
+[Point Inside](http://www.pointinside.com/) is our food sponsor.
+
+_"Point Inside’s StoreMode™ platform answers shoppers’ 2 most important questions: ‘Do you have it?’ and ‘Where is it?’ At Point Inside, we are constantly releasing new functionality to our retail partners. Node.js enables us to move fast because it is one of the the languages and frameworks that provide us with the greatest development speed, extensibility, and robustness."_
+
+<img src="/assets/img/site/pointinside.jpg" />
+
 <!-- more end -->

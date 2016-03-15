@@ -37,11 +37,13 @@ This talk will discuss the current state of node security. How does that compare
 
 Adam Baldwin is the Chief Security Officer at &yet and the Team Lead at ^lift security where he helps developers secure all the web things! He is the Founder of the Node Security Project & talks about node security non-stop. In his free time Adam enjoys doing basically the exact same stuff he does for work, also raising chickens, and spending as much time as possible with his wife and 2 children.
 
-<!--
-**[TODO_NAME](TODO_SOCIAL_MEDIA_LINK)** - TODO_BIO_TITLE
+### NodeJS Development and Hardware Interfacing on Raspberry Pi
 
-TODO_ABSTRACT
--->
+**[Chintan Pathak](https://medium.com/@chintanp/latest)** - Systems/Control Engineer [Maple Lab](http://depts.washington.edu/maple/)
+
+With this talk and demonstration, we will focus on showing the strength of Raspberry Pi as a prototyping platform. We will also address how to use Cloud9 as a remote IDE for NodeJS development on Raspberry Pi 2. The ideas discussed will be widely accessible, including for those without much former hardware knowledge.
+
+Chintan is currently working as a Research Scholar in the MAPLE Lab at the University of Washington, Seattle. The focus of the lab is in solving stiff multi-physics multi-scale models, typically found in electrochemical systems. Chintan specializes in interfacing sensors and actuators with computers/micro-controllers. This means working with Embedded C on micro-controllers and C/NodeJS on the PC to enable communication. His favorite form of deployment happens to be a web-application and he uses socket.io to enable real-time display of sensor data in the browser. While originally a Civil and Structural Engineering trainer and consultant, Chintan is now a systems/control engineer in the MAPLE lab.
 
 ## Venue / Sponsor
 

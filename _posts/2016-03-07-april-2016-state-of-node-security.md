@@ -39,7 +39,7 @@ Adam Baldwin is the Chief Security Officer at &yet and the Team Lead at ^lift se
 
 ### NodeJS Development and Hardware Interfacing on Raspberry Pi
 
-**[Chintan Pathak](https://medium.com/@chintanp/latest)** - Systems/Control Engineer [Maple Lab](http://depts.washington.edu/maple/)
+**[Chintan Pathak](https://about.me/chintanpathak)** - Systems/Control Engineer [Maple Lab](http://depts.washington.edu/maple/)
 
 With this talk and demonstration, we will focus on showing the strength of Raspberry Pi as a prototyping platform. We will also address how to use Cloud9 as a remote IDE for NodeJS development on Raspberry Pi 2. The ideas discussed will be widely accessible, including for those without much former hardware knowledge.
 

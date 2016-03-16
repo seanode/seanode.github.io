@@ -18,6 +18,12 @@ Twitter ([@{{site.author.twitter}}](https://twitter.com/{{ site.author.twitter }
 and on
 GitHub ([@{{site.author.github}}](https://github.com/{{ site.author.github }})).
 
+## Come Speak for Us!
+
+We'd love to hear about your Node.js project, hackery, experiences. See our
+[request to speak](https://github.com/seanode/meetup/blob/master/request-to-speak.md)
+page for details.
+
 {% if site.posts.size > 0 %}
 ## Latest Happenings
 

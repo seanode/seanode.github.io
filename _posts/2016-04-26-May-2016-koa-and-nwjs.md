@@ -8,7 +8,7 @@ tags: [node.js, javascript, koa, nwjs]
 
 The Seattle Node.js Meetup is pleased announce our
 [meetup](XXX)
-on **(TODO)** with a look case studies using Koa.js and NWjs.
+on **Wednesday, May 25th** with a look at case studies using Koa.js and NWjs.
 
 As always, you can find all things Seattle Node.js-related at the group website:
 [http://seanode.github.io/](http://seanode.github.io/). And you can reach out to
@@ -19,7 +19,7 @@ See you soon!
 
 ## Agenda
 
-* **6:30 - 7:00pm**: Start with beverages and food, courtesy of TODO: need sponsor.
+* **6:30 - 7:00pm**: Start with beverages and food, courtesy of Madrona.
 
 * **7:00pm - 8:30pm**: Listen and learn about Koa.js / generators and bundling 
   desktop apps with NWjs.
@@ -54,6 +54,6 @@ TODO: NEED BIO
 
 ## Venue / Sponsor
 
-TODO: NEED_SPONSOR
+**[Madrona](www.madrona.com)** has graciously agreed to host the event and provide food and tasty beverages. Madrona's offices are located at: 999 3rd Ave, 34th floor, Seattle, WA. Please enter at the Northeast corner, the entrance closest to the 3rd and Madison intersection.
 
 <!-- more end -->

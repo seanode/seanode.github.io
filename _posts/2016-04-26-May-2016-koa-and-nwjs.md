@@ -19,12 +19,12 @@ See you soon!
 
 ## Agenda
 
-**6:30 - 7:00pm**: Start with beverages and food, courtesy of TODO: need sponsor.
+* **6:30 - 7:00pm**: Start with beverages and food, courtesy of TODO: need sponsor.
 
-**7:00pm - 8:30pm**: Listen and learn about Koa.js / generators and bundling 
-                     desktop apps with NWjs.
+* **7:00pm - 8:30pm**: Listen and learn about Koa.js / generators and bundling 
+  desktop apps with NWjs.
 
-**8:30pm - on**: Mingle, mix, chat things Node.js-related and more as we wind down.
+* **8:30pm - on**: Mingle, mix, chat things Node.js-related and more as we wind down.
 
 <!-- more start -->
 

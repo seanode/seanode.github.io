@@ -44,16 +44,23 @@ Chris Griffing is a full stack developer at Fresh Consulting in Bellevue.
 His hobbies include snowboarding, golfing, and going to meetups. Some say that
 his beanie is physically attached to his scalp.
 
-### TODO: NEED TITLE
+### An Introduction to NWjs
 
-**[Rick Patci](XXX)** - Assistant Instructor [Code Fellows](https://www.codefellows.org/)
+**[Rick Patci](https://www.linkedin.com/in/patci)** - Instructor [Code Fellows](https://www.codefellows.org/)
 
-TODO: NEED DESCRIPTION 
+Not sure how NWjs works? Rick will lead us through a brief workshop on packaging and 
+distributing native desktop apps with node. This demonstration will cover shipping 
+and application to a Windows 64 OS from OSX.
 
-TODO: NEED BIO
+Currently an instructor for Code Fellows in Seattle, Rick Patci is teaching students 
+intermediate software development. He most recently came from a video streaming 
+startup, and loves Motown music!
 
 ## Venue / Sponsor
 
-**[Madrona](www.madrona.com)** has graciously agreed to host the event and provide food and tasty beverages. Madrona's offices are located at: 999 3rd Ave, 34th floor, Seattle, WA. Please enter at the Northeast corner, the entrance closest to the 3rd and Madison intersection.
+**[Madrona](www.madrona.com)** has graciously agreed to host the event and provide 
+food and tasty beverages. Madrona's offices are located at: 
+999 3rd Ave, 34th floor, Seattle, WA. Please enter at the Northeast corner, the 
+entrance closest to the 3rd and Madison intersection.
 
 <!-- more end -->

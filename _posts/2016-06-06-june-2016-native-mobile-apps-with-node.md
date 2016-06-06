@@ -7,7 +7,7 @@ tags: [node.js, javascript, mobile apps, synchro labs]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased announce our
-[meetup](xxxx)
+[meetup](http://www.meetup.com/Seattle-Node-js/events/231696353/)
 on **Wednesday, June 22nd** Building Mobile Apps with Node.js
 
 As always, you can find all things Seattle Node.js-related at the group website:

@@ -48,6 +48,6 @@ always happy to make new connections, so feel free to chat with him after the ta
 
 **[Mixpo](http://mixpo.com/)** has graciously agreed to host the event and provide
 food and tasty beverages. Mixpo's offices are located at: 520 Pike St, Suite
-1600, Seattle, WA 98101
+2400, Seattle, WA 98101
 
 <!-- more end -->

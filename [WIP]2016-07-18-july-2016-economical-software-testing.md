@@ -6,7 +6,7 @@ tags: [node.js, javascript, testing]
 ---
 {% include JB/setup %}
 
-The Seattle Node.js Meetup is pleased announce our
+The Seattle Node.js Meetup is pleased to announce our
 [meetup](xxx)
 on **Thursday, July 27th** Economical Software Testing
 
@@ -22,7 +22,7 @@ See you soon!
 * **6:30 - 7:00pm**: Start with beer, pizza, and mingling, courtesy of Mixpo.
 
 * **7:00pm - 8:00pm**: Listen and learn about cost / expense analysis in software testing, 
-                        as well as another topic or two in lightening talks!
+                        as well as another topic or two in lightning talks!
 
 * **8:30pm - on**: Mingle, mix, chat things Node.js-related and more as we wind down.
 

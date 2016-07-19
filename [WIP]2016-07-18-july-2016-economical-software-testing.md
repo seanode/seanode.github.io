@@ -19,7 +19,7 @@ See you soon!
 
 ## Agenda
 
-* **6:30 - 7:00pm**: Start with snacks and mingling, courtesy of Mixpo.
+* **6:30 - 7:00pm**: Start with beer, pizza, and mingling, courtesy of Mixpo.
 
 * **7:00pm - 8:00pm**: Listen and learn about cost / expense analysis in software testing, 
                         as well as another topic or two in lightening talks!

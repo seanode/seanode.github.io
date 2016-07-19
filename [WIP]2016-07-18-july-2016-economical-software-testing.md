@@ -7,7 +7,7 @@ tags: [node.js, javascript, testing]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased to announce our
-[meetup](xxx)
+[meetup](http://www.meetup.com/Seattle-Node-js/events/232733138/)
 on **Thursday, July 27th** Economical Software Testing
 
 As always, you can find all things Seattle Node.js-related at the group website:

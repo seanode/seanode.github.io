@@ -2,7 +2,7 @@
 layout: post
 title: "July 2016 Meetup - Economical Software Testing"
 description: ""
-tags: [node.js, javascript, software testing]
+tags: [node.js, javascript, testing]
 ---
 {% include JB/setup %}
 
@@ -21,8 +21,8 @@ See you soon!
 
 * **6:30 - 7:00pm**: Start with snacks and mingling, courtesy of Mixpo.
 
-* **7:00pm - 8:00pm**: Listen and learn about Economical Software Testing, as well
-                       as another topic or two in lightening talks!
+* **7:00pm - 8:00pm**: Listen and learn about cost / expense analysis in software testing, 
+                        as well as another topic or two in lightening talks!
 
 * **8:30pm - on**: Mingle, mix, chat things Node.js-related and more as we wind down.
 
@@ -46,7 +46,7 @@ always happy to make new connections, so feel free to chat with him after the ta
 
 ## Venue / Sponsor
 
-**[Mixpo](http://mixpo.com/) has graciously agreed to host the event and provide
+**[Mixpo](http://mixpo.com/)** has graciously agreed to host the event and provide
 food and tasty beverages. Mixpo's offices are located at: 520 Pike St, Suite
 1600, Seattle, WA 98101
 

@@ -19,7 +19,7 @@ See you soon!
 
 ## Agenda
 
-* **6:30 - 7:00pm**: Start with appetizers and mingling, courtesy of General Assembly.
+* **6:30pm - 7:00pm**: Start with appetizers and mingling, courtesy of General Assembly.
 
 * **7:00pm - 8:00pm**: Listen and learn about why CouchBase is perfect for Node.js
 

@@ -7,7 +7,7 @@ tags: [node.js, javascript, couchbase]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased to announce our
-[meetup](TODO)
+[meetup](http://www.meetup.com/Seattle-Node-js/events/233099175/)
 on **Wednesday, August 31st,** CouchBase and Node.js
 
 As always, you can find all things Seattle Node.js-related at the group website:
@@ -55,5 +55,7 @@ devices.
 
 **[General Assembly](https://generalassemb.ly/seattle)** has graciously agreed to host the event. 
 General Assembly is located on the third floor at 1218 3rd Avenue, Seattle, WA, 98101 
+
+[Please RSVP with General Assembly for this event!](https://generalassemb.ly/education/seattle-nodejs-meetup-developing-with-nodejs-nosql-and-angular-2/seattle/28045)
 
 <!-- more end -->

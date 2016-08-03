@@ -29,11 +29,18 @@ See you soon!
 
 ## Talks
 
-### CouchBase and Node.js
+### Developing with Node.js, NoSQL, and Angular 2
 
 **[Nic Raboy](https://github.com/nraboy)** - Developer Advocate [CouchBase](http://www.couchbase.com/)
 
-TODO: Add Description
+In this session, we'll talk about what's different about this generation of web 
+applications and how a solid development approach must consider the latency, 
+throughput, and interactivity demand by users across mobile devices, web browsers, 
+and Internet of Things (IoT). We'll demonstrate how to include Couchbase in such 
+applications to support a flexible data model and the easy scalability required for 
+modern development. We'll demonstrate how to create an application composed of 
+Couchbase, Express Framework, Angular 2, and Node.js. Bring your laptop and follow
+along!
 
 Nic is a Developer Advocate for Couchbase in the San Francisco Bay Area. He speaks 
 at developer conferences, meetups, and community events in addition to mainting a 
@@ -46,7 +53,7 @@ devices.
 
 ## Venue / Sponsor
 
-**[General Assembly](https://generalassemb.ly/seattle)** has graciously agreed to host the event and provide
-food and tasty beverages. General Assembly is located on the third floor at 1218 3rd Avenue, Seattle, WA, 98101 
+**[General Assembly](https://generalassemb.ly/seattle)** has graciously agreed to host the event. 
+General Assembly is located on the third floor at 1218 3rd Avenue, Seattle, WA, 98101 
 
 <!-- more end -->

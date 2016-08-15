@@ -53,7 +53,8 @@ devices.
 
 ## Venue / Sponsor
 
-**[General Assembly](https://generalassemb.ly/seattle)** has graciously agreed to host the event. 
+**[General Assembly](https://generalassemb.ly/seattle)** has graciously agreed to host the event and
+**[TEKSystems](https://www.teksystems.com/en)** has generously volunteered to provide sustenance!
 General Assembly is located on the third floor at 1218 3rd Avenue, Seattle, WA, 98101 
 
 [Please RSVP with General Assembly for this event!](https://generalassemb.ly/education/seattle-nodejs-meetup-developing-with-nodejs-nosql-and-angular-2/seattle/28045)

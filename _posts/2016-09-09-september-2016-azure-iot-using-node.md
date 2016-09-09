@@ -7,7 +7,7 @@ tags: [node.js, javascript, azure, IoT]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased announce our
-[meetup](xxx)
+[meetup](https://www.meetup.com/Seattle-Node-js/events/234006156/)
 on **Wednesday, September 28th** with a discussion about Azure IoT and Node.js.
 
 As always, you can find all things Seattle Node.js-related at the group website:

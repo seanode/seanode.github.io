@@ -1,0 +1,47 @@
+---
+layout: post
+title: "October 2016 Meetup - What is GraphQL and What Can it Do?"
+description: ""
+tags: [node.js, javascript, graphql]
+---
+{% include JB/setup %}
+
+The Seattle Node.js Meetup is pleased to announce our
+[meetup](xxx)
+on **Wednesday, October 26th,** All About GraphQL
+
+As always, you can find all things Seattle Node.js-related at the group website:
+[http://seanode.github.io/](http://seanode.github.io/). And you can reach out to
+us via email at [{{site.author.email}}](mailto:{{site.author.email}}) or Twitter
+at [@{{site.author.twitter}}](https://twitter.com/{{ site.author.twitter }}).
+
+See you soon!
+
+## Agenda
+
+* **6:30pm - 7:00pm**: Start with XXXX.
+
+* **7:00pm - 8:00pm**: Learn about what GraphQL is and what it can do!
+
+* **8:30pm - on**: Mingle, mix, chat things Node.js-related and more as we wind down.
+
+<!-- more start -->
+
+## Talks
+
+### What is GraphQL and What Can it Do?
+
+**[Travis Webb](https://github.com/tjwebb)** - CEO of http://www.balderdash.io
+
+XXXX
+
+
+## Venue / Sponsor
+
+**[General Assembly](https://generalassemb.ly/seattle)** has graciously agreed to host the event and
+**[XXXX](XXXX)** has generously volunteered to provide sustenance!
+General Assembly is located on the third floor at 1218 3rd Avenue, Seattle, WA, 98101 
+
+[Please RSVP with General Assembly for this event!](https://generalassemb.ly/education/seattle-nodejs-meetup-developing-with-nodejs-nosql-and-angular-2/seattle/28045)
+
+<!-- more end -->

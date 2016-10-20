@@ -32,7 +32,7 @@ that we do not have a food/beverage sponsor for this event, so grab a bite befor
 
 ### API Driven Development with GraphQL
 
-**[Travis Webb](https://github.com/tjwebb)** - CEO of http://www.balderdash.io
+**[Travis Webb](https://github.com/tjwebb)** - CEO of [Langa](https://langa.io/)
 
 How can GraphQL make developing APIs faster and cleaner? Why does it simplify mocking
 and documenting your backend services? And just what in the world is it, exactly? 

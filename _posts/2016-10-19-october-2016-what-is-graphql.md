@@ -7,7 +7,7 @@ tags: [node.js, javascript, graphql, api, api driven development]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased to announce our
-[meetup](xxx)
+[meetup](https://www.meetup.com/Seattle-Node-js/events/235002427/)
 on **Wednesday, October 26th,** API Driven Development with GraphQL!
 
 As always, you can find all things Seattle Node.js-related at the group website:

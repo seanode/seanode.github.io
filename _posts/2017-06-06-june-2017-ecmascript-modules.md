@@ -7,7 +7,7 @@ tags: [node.js, modules, ecmascript]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased to announce our
-[meetup](XXXX)
+[meetup](https://www.meetup.com/Seattle-Node-js/events/240587485/)
 on **Tuesday, June 27th**, discussing the contentious topic of ECMAScript
 modules in Node.js.
 

@@ -34,7 +34,7 @@ See you soon!
 
 **[John-David Dalton](https://twitter.com/jdalton)**
 
-Years after the collapse of io.js, the Node Core Technical Committee (CTC) has decreed that the .MJS file extension is required for ECMAScript modules (ESM), leaving fans of .JS trapped with CommonJS. Will a code warrior emerge to save the day? Tune in to find out.
+Despite the rise of ES6, CommonJS rules the land forcing fans of ECMAScript modules to use special file extensions or cumbersome build steps. Will a code warrior emerge to save the day? Tune in to find out.
 
 John-David Dalton is the creator of Lodash and Web Apps & Frameworks PM at Microsoft.
 

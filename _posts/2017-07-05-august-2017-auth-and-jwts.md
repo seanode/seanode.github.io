@@ -7,7 +7,7 @@ tags: [node.js, auth, jwt]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased to announce our
-[meetup](TODO)
+[meetup](https://www.meetup.com/Seattle-Node-js/events/241400591/)
 on **Tuesday, August 1st**, with two talks discussing the finer points of
 authentication with [JSON Web Tokens (JWTs)](https://jwt.io/).
 
@@ -65,7 +65,7 @@ General Assembly is located on the third floor at 1218 3rd Avenue, Seattle, WA, 
 ## Registration
 
 In addition to the normal meetup registration, please also
-[RSVP with General Assembly](TODO) so that they have your information to get you
+[RSVP with General Assembly](https://generalassemb.ly/education/seattle-nodejs-meetup-f504819f-65de-48fc-ae14-e3ff85740078/seattle/39675) so that they have your information to get you
 in through the door and into the event.
 
 <!-- more end -->

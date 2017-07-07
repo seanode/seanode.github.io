@@ -52,25 +52,16 @@ Jekyll is built on Ruby, so that's what we use. Get an RVM environment
 fired up:
 
     # Activate RVM
-    $ rvm use 1.9.3
+    $ rvm install 2.4
+    $ rvm use 2.4
 
     # Create and activate custom gemset.
     $ rvm create gemset seanode
-    $ rvm use 1.9.3@seanode
+    $ rvm use 2.4@seanode
 
-Install the repo gemset:
+Install jekyll
 
-    $ PATH/TO/seanode.github.com
-    $ rvm gemset import
-
-Highlighted code requires a
-
-#### Python
-... and we need Python too for pygments. We recommend a `virtualenv` for
-the project. From there, install with pip:
-
-    $ PATH/TO/seanode.github.com
-    $ pip install -r requirements.txt
+    $ rvm install jekyll
 
 ### Running the Preview Server
 Once everything is installed, you can run the preview server to build the site

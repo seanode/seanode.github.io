@@ -7,7 +7,7 @@ tags: [node.js, aws, lambda, appsync, serverless, graphql]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased to announce our
-[meetup](https://www.meetup.com/Seattle-Node-js/events/241400591/)
+[meetup](https://www.meetup.com/Seattle-Node-js/events/248518577/)
 on **Tuesday, Match 27th**, with two talks discussing using Node.js and
 GraphQL with Amazon Web Services' [AppSync](https://aws.amazon.com/appsync/)
 data layer.
@@ -65,6 +65,6 @@ actions performed by the skill with your mobile and web apps.
 
 **[Gravity Payments](https://gravitypayments.com/)** has graciously agreed to
 host the event. Gravity Payments is located on the rooftop floor of 5601 22nd
-Ave NW Ste 200, Seattle, WA 98107
+Ave NW, Ste 200, Seattle, WA 98107
 
 <!-- more end -->

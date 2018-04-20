@@ -6,9 +6,10 @@ tags: [node.js, kubernetes, express, graphql, cloud]
 ---
 {% include JB/setup %}
 
-The Seattle Node.js Meetup is pleased to announce our [meetup](TODO) on
-**Wednesday, May 16th**, with two fantastic speakers discussing writing
-multi-cloud Node.js applications with Kubernetes.
+The Seattle Node.js Meetup is pleased to announce our
+[meetup](https://www.meetup.com/Seattle-Node-js/events/249987531/) on
+**Wednesday, May 16th**, with two fantastic speakers discussing multi-cloud
+Node.js applications with Kubernetes.
 
 As always, you can find all things Seattle Node.js-related at the group website:
 [http://seanode.github.io/](http://seanode.github.io/). And you can reach out to
@@ -22,7 +23,7 @@ See you soon!
 * **6:30pm - 7:00pm**: Doors open, hang out with your fellow developers. Grab
   some snacks and beverages courtesy of Textio.
 
-* **7:00pm - 8:10pm**: Learn how to wire up production, multi-cloud Node.js
+* **7:00pm - 8:10pm**: Learn how to build out production, multi-cloud Node.js
   microservices!
 
 * **8:15pm - 8:30pm-ish**: Mingle, mix, chat things Node.js-related and more as
@@ -30,7 +31,7 @@ See you soon!
 
 <!-- more start -->
 
-## Talks
+## Speakers
 
 **[Shubhra Kar](https://twitter.com/shubhrakar) - VP of Product Marketing, [Joyent](https://www.joyent.com)**
 
@@ -48,9 +49,11 @@ he co-founded StrongLoop (acquired by IBM, 2015) as CTO to help bring new
 generation cloud technologies like Node.js to market. Al is the creator of
 LoopBack, a leading open source Node.js framework for enterprise APIs.
 
-### Building an Open Source Express.js-based [Express Gateway](www.express-gateway.io) running on Kubernetes
+## Talk
 
-Dig deep into API gateways and learn how you can orchestrate mutli-cloud
+### Open Source Express.js with [Express Gateway](https://www.express-gateway.io) on Kubernetes
+
+Dig deep into API gateways and learn how you can orchestrate multi-cloud
 Kubernetes with a hands-on demo. Through this talk, we'll cover:
 
 * What is an API Gateway and why it is so important for microservices
@@ -71,8 +74,8 @@ at the 5th Ave. entrance to Madison Centre to let you in the building.
 
 For parking, here are a few of the nearby options available:
 
-* Madison Centre (our building) at 5th and Marion
-* Renaissance hotel next door to our building: https://en.parkopedia.com/parking/underground/renaissance_seattle_hotel/98104/seattle
-* Seattle Public Library, 465 Spring St. Open 7am-9pm. http://www.spl.org/locations/central-library/cen-getting-there-and-parking/cen-parking-and-bikes
+* Madison Centre (the building) at 5th and Marion
+* [Renaissance hotel](https://en.parkopedia.com/parking/underground/renaissance_seattle_hotel/98104/seattle) next door to the building:
+* [Seattle Public Library](http://www.spl.org/locations/central-library/cen-getting-there-and-parking/cen-parking-and-bikes), 465 Spring St. Open 7am-9pm.
 
 <!-- more end -->

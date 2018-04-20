@@ -51,23 +51,29 @@ Some various tips:
 Jekyll is built on Ruby, so that's what we use. Get an RVM environment
 fired up:
 
-    # Activate RVM
-    $ rvm install 2.4
-    $ rvm use 2.4
+```sh
+# Activate RVM
+$ rvm install 2.4
+$ rvm use 2.4
 
-    # Create and activate custom gemset.
-    $ rvm create gemset seanode
-    $ rvm use 2.4@seanode
+# Create and activate custom gemset.
+$ rvm gemset create seanode
+$ rvm use 2.4@seanode
+```
 
 Install jekyll
 
-    $ rvm install jekyll
+```sh
+$ gem install jekyll
+```
 
 ### Running the Preview Server
 Once everything is installed, you can run the preview server to build the site
 and host it locally at: <http://127.0.0.1:4000>
 
-    $ rake preview
+```sh
+$ rake preview
+```
 
 Note that you may have to kill/restart to see some of your changes.
 

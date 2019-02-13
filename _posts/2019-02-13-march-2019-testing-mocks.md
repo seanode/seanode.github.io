@@ -44,7 +44,7 @@ The session will have live coding for unmock, using express to create a simple m
 
 Mike Solomon is the founder and CEO of Meeshkan (meeshkan.com), a Helsinki-based DevOps company. A music major at Stanford University, Queen's University Belfast and the University of Florida, Mike has been a guest researcher at the University of Paris VI and has held the post of artistic director of the Ensemble 101 (ensemble101.fr) from 2011 until the present day. While working at the IRCAM as a computer music designer, he fell in love with Machine Learning and founded Meeshkan to ease several DevOps pain points in the ML pipeline. Since then, Meeshkan has expanded to other areas of DevOps, including API testing with unmock (unmock.io).
 
-**Mock Driven Development with YesNo**
+**Mock driven development with YesNo**
 
 _Ian Walker-Sperber (https://twitter.com/ianwsperber) - Node.js Engineer, Formidable (https://formidable.com/)_
 
@@ -54,7 +54,7 @@ Ian joined Formidable in 2016, where he has since worked on Node.js app developm
 
 ## Sponsor
 
-**[Textio](https://textio.com/)** has graciously agreed to host the event.
+**Textio** (https://textio.com/) has graciously agreed to host the event.
 
 Textio is located at 920 5th Ave Suite 2300, Seattle, WA 98104 in the Madison
 Centre building at 5th and Madison in downtown Seattle, across the corner from

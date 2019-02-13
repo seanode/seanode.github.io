@@ -32,17 +32,25 @@ See you soon!
 
 ## Talks
 
-**[TODO_NAME](TODO_SOCIAL_MEDIA) - TODO_TITLE, [TODO_CO](TODO_CO_LINK)**
+**Testing apps with third-party API integrations**
 
-TODO_BIO
+_Mike Solomon (https://twitter.com/MeeshkanML) - CEO, Meeshkan (https://www.meeshkan.com/)_
 
-TODO_TALK
+In this talk we will examine strategies and best practices to develop and test node apps that make heavy use of third-party API integrations. As reliance on third-party services becomes more and more prevalent in the node ecosystem, developers need cost-effective, secure, reliable and fast ways to mock these services for both dev/staging environments and testing.
 
-**[TODO_NAME](TODO_SOCIAL_MEDIA) - TODO_TITLE, [TODO_CO](TODO_CO_LINK)**
+We will start with looking at unmock (https://github.com/unmock/unmock-js) which provides mocks-as-a-service of popular APIs.
 
-TODO_BIO
+The session will have live coding for unmock, using express to create a simple microservice and jest for testing. It will also present several popular design patterns for isolating and testing third-party integrations as well as strategies for integration testing apps that rely on third-party APIs, including corner-case and error testing.
 
-TODO_TALK
+Mike Solomon is the founder and CEO of Meeshkan (meeshkan.com), a Helsinki-based DevOps company. A music major at Stanford University, Queen's University Belfast and the University of Florida, Mike has been a guest researcher at the University of Paris VI and has held the post of artistic director of the Ensemble 101 (ensemble101.fr) from 2011 until the present day. While working at the IRCAM as a computer music designer, he fell in love with Machine Learning and founded Meeshkan to ease several DevOps pain points in the ML pipeline. Since then, Meeshkan has expanded to other areas of DevOps, including API testing with unmock (unmock.io).
+
+**Mock Driven Development with YesNo**
+
+_Ian Walker-Sperber (https://twitter.com/ianwsperber) - Node.js Engineer, Formidable (https://formidable.com/)_
+
+We'll explain the testing philosophy which led to the development of YesNo, and how it can be used in practice to build powerful test suites around remote APIs.
+
+Ian joined Formidable in 2016, where he has since worked on Node.js app development, cloud infrastructure, and SQL/NoSql databases. Ian's recent open source work includes the release of a new HTTP testing library, YesNo, for Node.js, and ongoing contributions to an Apache Kafka client. Prior to Formidable Ian has held various full-stack engineering responsibilities, including a lead role in a massive real time processing application built for General Motors. Ian continues to be passionate about distributed messaging systems and other trends in cloud technology.
 
 ## Sponsor
 

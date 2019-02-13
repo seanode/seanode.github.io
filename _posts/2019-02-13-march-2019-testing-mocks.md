@@ -7,7 +7,7 @@ tags: [node.js, test, mock]
 {% include JB/setup %}
 
 The Seattle Node.js Meetup is pleased to announce our
-[meetup](TODO_LINK) on
+[meetup](https://www.meetup.com/Seattle-Node-js/events/258938499) on
 **Monday, March 11th**, with two awesome talks focusing on testing with mocks on Node.js.
 
 As always, you can find all things Seattle Node.js-related at the group website:
